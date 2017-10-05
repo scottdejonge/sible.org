@@ -31,7 +31,7 @@
   "scripts": {
     "start": "npm run watch",
     "watch": "npm run build -- -w",
-    "build": "postcss assets/css/main.css -o dist/bundle.css",
+    "build": "postcss assets/css/main.css -o public/bundle.css",
     "deploy": "webpack -p && npm run build:css",
     "svg": "npm run svgo && npm run sprites",
     "svgo": "npm run svgo-glyphs && npm run svgo-icons",

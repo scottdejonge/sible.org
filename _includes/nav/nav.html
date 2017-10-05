@@ -1,0 +1,13 @@
+<nav class="nav">
+  <ul>
+  {% for link in site.navigation %}
+    {% assign active = nil %}
+    {% if page.url == link.url %}
+      {% assign active = 'active' %}
+    {% endif %}
+      <li>
+        <a class="{{ active }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.text }}</a>
+      </li>
+  {% endfor %}
+  </ul>
+</nav>

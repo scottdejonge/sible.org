@@ -1,0 +1,14 @@
+.social {
+  display: flex;
+  align-items: center;
+
+  & a {
+    flex: none;
+    display: block;
+    text-decoration: none;
+  }
+
+  & svg {
+    
+  }
+}

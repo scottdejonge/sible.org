@@ -1,0 +1,65 @@
+# Site settings
+title: "Sible"
+page_title: "Sible"
+email: info@sible.org
+phone: 0400 000 000
+fax: 07 3333 3333
+description: ""
+keywords:
+  - Keyword
+
+# Server
+baseurl: ""
+destination: _site
+host: 0.0.0.0
+port: 5183
+url: https://sible.com/
+encoding: UTF-8
+timezone: UTC
+permalink: pretty
+
+# Excludes
+exclude:
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - commit-hook.sh
+  - package.json
+
+# Build settings
+markdown: kramdown
+
+# Kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# Repo
+repo: https://github.com/scottdejonge/sible.org
+
+# Social
+social:
+  - text: Facebook
+    icon: facebook
+    url: "#"
+  - text: Twitter
+    icon: twitter
+    url: "#"
+  - text: Instagram
+    icon: instagram
+    url: "#"
+  - text: YouTube
+    icon: youtube
+    url: "#"
+
+# Navigation
+navigation:
+  - text: Home
+    url: "/"
+  - text: Features
+    url: "/features/"
+  - text: Blog
+    url: "/blog/"
+  - text: About
+    url: "/about/"

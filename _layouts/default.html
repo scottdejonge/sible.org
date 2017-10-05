@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include nav/skip-links.html %}
+    {% include template/header.html %}
+    <main id="main" role="main">
+      {{ content }}
+    </main>
+    {% include template/footer.html %}
+    {% include analytics.html %}
+    <!-- <script src="/public/bundle.js"></script> -->
+  </body>
+</html>

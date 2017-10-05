@@ -46,12 +46,19 @@
  */
 
 @import './template/body';
-@import './template/skip-links';
 @import './template/header';
 @import './template/logo';
-@import './template/nav';
 @import './template/section';
 @import './template/footer';
+
+
+/**
+ * Nav
+ */
+
+@import './nav/skip-links';
+@import './nav/nav';
+@import './nav/social';
 
 
 /**
