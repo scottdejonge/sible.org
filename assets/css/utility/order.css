@@ -1,0 +1,11 @@
+.order-1 {
+  @media (--m-up) {
+    order: 1;
+  }
+}
+
+.order-2 {
+  @media (--m-up) {
+    order: 2;
+  }
+}

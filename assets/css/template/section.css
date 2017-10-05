@@ -1,0 +1,18 @@
+.section {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}
+
+.section-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.section-anchor {
+  position: absolute;
+  top: 0;
+  left: 0;
+}

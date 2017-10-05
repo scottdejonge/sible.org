@@ -1,0 +1,22 @@
+.skip-links {
+
+  & a {
+    z-index: var(--z-index-medium);
+    position: fixed;
+    top: var(--header-height);
+    left: 0;
+    padding: 0.5em;
+    color: var(--white);
+    opacity: 0;
+
+    @media (--m-up) {
+      top: var(--header-height-m-up);
+    }
+
+    &:focus {
+      position: fixed;
+      opacity: 1;
+      background: var(--dark);
+    }
+  }
+}

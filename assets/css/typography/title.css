@@ -1,0 +1,71 @@
+.title {
+  margin: 0.5em 0;
+  font-size: 2rem;
+  line-height: 1.2;
+
+  & em {
+    display: inline-block;
+    font-style: normal;
+    line-height: 1;
+  }
+}
+
+.title-xs {
+  font-size: 1.0rem;
+
+  @media (--s-up) { 
+    font-size: 1.5rem;
+  } 
+
+  @media (--l-up) {
+    font-size: 1.5rem;
+  } 
+}
+
+.title-s {
+  font-size: 1.5rem;
+
+ @media (--s-up) {
+    font-size: 2.0rem;
+  }
+
+ @media (--l-up) {
+    font-size: 2.5rem;
+  }
+}
+
+.title-m {
+  font-size: 2.0rem;
+
+ @media (--s-up) {
+    font-size: 2.25rem;
+  }
+
+ @media (--l-up) {
+    font-size: 2.5rem;
+  }
+}
+
+.title-l {
+  font-size: 2.5rem;
+
+ @media (--s-up) {
+    font-size: 3.0rem;
+  }
+
+ @media (--l-up) {
+    font-size: 4.0rem;
+  }
+}
+
+.title-xl {
+  font-size: 3.0rem;
+
+ @media (--s-up) {
+    font-size: 4.0rem;
+  }
+
+ @media (--l-up) {
+    font-size: 5.0rem;
+  }
+}

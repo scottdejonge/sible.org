@@ -1,0 +1,33 @@
+.actions {
+  display: flex;
+
+  & .action {
+    flex: 1 1 0;
+
+    & svg {
+      margin: 0 auto;
+    }
+  }
+}
+
+.action {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: var(--font-weight-semibold);
+
+  & span {
+    flex: none;
+    display: block;
+  }
+
+  & svg {
+    flex: none;
+    display: block;
+    margin-left: 1em;
+  }
+}
+
+.action-inline {
+  display: inline-flex;
+}

@@ -1,0 +1,44 @@
+{
+  "name": "turretcss-boilerplate",
+  "version": "3.0.0",
+  "description": "Basic boilerplate for front-end development using turretcss, PostCSS, PostCSS CLI, cssnext, and CSSNano.",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Scott de Jonge",
+      "email": "scottdj@bigfish.tv",
+      "url": "http://scottdejonge.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turretcss/turretcss-boilerplate"
+  },
+  "bugs": {
+    "url": "https://github.com/turretcss/turretcss-boilerplate/issues"
+  },
+  "dependencies": {
+    "turretcss": "^4.1.0-beta2"
+  },
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "postcss-cli": "^3.0.0-beta",
+    "postcss-cssnext": "^2.8.0",
+    "postcss-import": "^8.1.2",
+    "svg-sprite-generator": "^0.0.7",
+    "svgo": "^0.7.2"
+  },
+  "scripts": {
+    "start": "npm run watch",
+    "watch": "npm run build -- -w",
+    "build": "postcss assets/css/main.css -o dist/bundle.css",
+    "deploy": "webpack -p && npm run build:css",
+    "svg": "npm run svgo && npm run sprites",
+    "svgo": "npm run svgo-glyphs && npm run svgo-icons",
+    "svgo-glyphs": "svgo -f assets/glyphs/src --enable=convertStyleToAttrs",
+    "svgo-icons": "svgo -f assets/icons/src --enable=convertStyleToAttrs",
+    "sprites": "npm run sprites-glyphs && npm run sprites-icons",
+    "sprites-glyphs": "svg-sprite-generate -d assets/glyphs/src -o assets/glyphs/glyphs.svg",
+    "sprites-icons": "svg-sprite-generate -d assets/icons/src -o assets/icons/icons.svg"
+  }
+}
