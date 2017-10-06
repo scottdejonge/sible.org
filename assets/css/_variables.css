@@ -141,7 +141,7 @@
 
   --link-color: var(--primary);
   --link-text-decoration: underline;
-  --link-hover-color: var(--secondary);
+  --link-hover-color: var(--primary-800);
   --link-hover-text-decoration: underline;
 
 

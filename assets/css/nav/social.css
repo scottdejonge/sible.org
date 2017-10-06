@@ -5,10 +5,11 @@
   & a {
     flex: none;
     display: block;
+    padding: 0.25em;
     text-decoration: none;
   }
 
   & svg {
-    
+    display: block;
   }
 }

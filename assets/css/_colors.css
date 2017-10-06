@@ -48,7 +48,7 @@
   --grey-900: color(var(--grey-800) shade(20%));
 
   /* Dark */
-  --dark: rgb(40, 40, 60);
+  --dark: rgb(30, 30, 40);
   --dark-hover: var(--dark-400);
   --dark-active: var(--dark-600);
   --dark-50: color(var(--dark-100) tint(30%));
