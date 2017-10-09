@@ -65,6 +65,7 @@
  * Typography
  */
 
+@import './typography/flex-list';
 @import './typography/title';
 @import './typography/link';
 
