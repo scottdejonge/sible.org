@@ -1,6 +1,14 @@
-<footer id="footer" class="footer" role="contentinfo">
+<footer id="footer" class="footer padding-vertical-m background-light-50 border-top border-color-light-100" role="contentinfo">
   <div class="container">
-    {% include nav/social.html %}
-    <p class="footer-copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.title }}.</p>
+    <div class="footer-top">
+      {% include template/logo.html %}
+      {% include nav/social.html %}
+    </div>
+    <div class="footer-body">
+      
+    </div>
+    <div class="footer-bottom">
+      <p class="footer-copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.title }}.</p>
+    </div>
   </div>
 </footer>
