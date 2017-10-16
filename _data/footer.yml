@@ -1,0 +1,37 @@
+- title: Pages
+  url: "/"
+  sublinks:
+    - title: Home
+      url: /
+    - title: Features
+      url: /features
+    - title: Blog
+      url: /blog
+    - title: About
+      url: /about
+- title: Using this site
+  url: "/"
+  sublinks:
+    - title: Accessiblity
+      url: /accessibility
+    - title: Cookie Policy
+      url: /cookie-policy
+    - title: Privacy Policy
+      url: /privacy-policy
+    - title: Terms and Conditions
+      url: /terms-and-conditions
+- title: Social
+  url: "/"
+  sublinks:
+    - title: Facebook
+      icon: facebook
+      url: "#"
+    - title: Twitter
+      icon: twitter
+      url: "#"
+    - title: Instagram
+      icon: instagram
+      url: "#"
+    - title: YouTube
+      icon: youtube
+      url: "#"

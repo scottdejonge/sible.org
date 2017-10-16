@@ -37,29 +37,3 @@ kramdown:
 
 # Repo
 repo: https://github.com/scottdejonge/sible.org
-
-# Social
-social:
-  - text: Facebook
-    icon: facebook
-    url: "#"
-  - text: Twitter
-    icon: twitter
-    url: "#"
-  - text: Instagram
-    icon: instagram
-    url: "#"
-  - text: YouTube
-    icon: youtube
-    url: "#"
-
-# Navigation
-navigation:
-  - text: Home
-    url: "/"
-  - text: Features
-    url: "/features/"
-  - text: Blog
-    url: "/blog/"
-  - text: About
-    url: "/about/"

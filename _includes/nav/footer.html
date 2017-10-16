@@ -1,4 +1,4 @@
-{% for item in site.data.nav %}
+{% for item in site.data.footer %}
 {% capture fullurl %}{{ site.baseurl }}{{ item.url }}{% endcapture %}
   {% if fullurl == page.url %}
     {% assign current_page = fullurl %}
@@ -8,9 +8,9 @@
   {% endif %}
 {% endfor %}
 
-<nav class="nav hidden-xs">
+<nav class="footer-nav">
   <ul>
-  {% for item in site.data.nav %}
+  {% for item in site.data.footer %}
     {% if item.url == current_page %}
       {% assign active = ' class="active"' %}
     {% else %}
