@@ -1,3 +1,59 @@
 .footer {
   
 }
+
+.footer-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-body {
+  
+}
+
+.footer-nav {
+  margin: -var(--gutter);
+
+  & > ul {
+    
+    & > li {
+      padding: var(--gutter);
+    }
+
+    @media (--s-up) {
+      display: flex;
+    
+      & > li {
+        flex: 1 1 0;
+      }
+    }
+  }
+
+  & ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  & li {
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
+
+  & a {
+    display: block;
+    padding: 0.25em 0;
+    color: var(--grey);
+
+    &:hover,
+    &:focus {
+      color: var(--primary);
+    }
+  }
+}
+
+.footer-bottom {
+
+}
