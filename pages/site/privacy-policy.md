@@ -3,7 +3,7 @@ layout: container
 order: 120
 title: Privacy Policy
 description: "Privacy policy tells you how we collect and use information."
-permalink: /privacy-policy
+permalink: /privacy-policy/
 ---
 
 We respect and protect the privacy of our users. 

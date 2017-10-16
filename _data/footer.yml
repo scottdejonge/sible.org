@@ -13,13 +13,13 @@
   url: null
   sublinks:
     - title: Team
-      url: null
+      url: /about/team
     - title: Partners
-      url: null
+      url: /about/partners
     - title: Contact
-      url: null
+      url: /about/contact
     - title: Brand
-      url: null
+      url: /about/brand
 - title: Using this site
   url: null
   sublinks:

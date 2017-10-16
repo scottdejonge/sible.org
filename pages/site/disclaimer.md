@@ -3,7 +3,7 @@ layout: container
 order: 110
 title: Disclaimer
 description: "We provide this website to inform the public and to provide guidance to government agencies and their suppliers."
-permalink: /disclaimer
+permalink: /disclaimer/
 ---
 
 ## Website content
