@@ -2,7 +2,7 @@
 layout: container
 order: 70
 title: Contact
-description: ""
+description: null
 permalink: /about/contact/
 ---
 

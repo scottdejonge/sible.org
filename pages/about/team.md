@@ -2,7 +2,7 @@
 layout: container
 order: 50
 title: Team
-description: ""
+description: null
 permalink: /about/team/
 ---
 
