@@ -1,5 +1,5 @@
 - title: Pages
-  url: "/"
+  url: null
   sublinks:
     - title: Home
       url: /
@@ -10,7 +10,7 @@
     - title: About
       url: /about
 - title: Using this site
-  url: "/"
+  url: null
   sublinks:
     - title: Accessiblity
       url: /accessibility
@@ -21,7 +21,7 @@
     - title: Terms and Conditions
       url: /terms-and-conditions
 - title: Social
-  url: "/"
+  url: null
   sublinks:
     - title: Facebook
       icon: facebook

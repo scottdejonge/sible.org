@@ -19,7 +19,7 @@
     {% assign sublinks = item.sublinks %}
     {% if sublinks %}
     <li>
-      <a {{ active }} href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      <h2 class="small-caps">{{ item.title }}</h2>
       <ul>
         {% for sublink in sublinks %}
         <li>
