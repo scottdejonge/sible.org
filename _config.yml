@@ -9,11 +9,11 @@ keywords:
   - Keyword
 
 # Server
-baseurl: ""
+baseurl: "/sible.org"
 destination: _site
 host: 0.0.0.0
 port: 5183
-url: https://sible.com/
+url: https://sible.org/
 encoding: UTF-8
 timezone: UTC
 permalink: pretty
