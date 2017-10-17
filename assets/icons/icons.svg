@@ -2,17 +2,53 @@
 <svg xmlns="http://www.w3.org/2000/svg">
 <symbol id="audio" viewBox="0 0 48 48"><path fill="#bc6cff" d="M7 24l16 12V12L7 24z"/><path fill="#bc6cff" d="M7 18h13v12H7z"/><path d="M26 20a4 4 0 0 1 0 8m0-12a8 8 0 0 1 0 16m0-20a12 12 0 1 1 0 24" fill="none" stroke="#410075" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
 </symbol>
+<symbol id="bolt" viewBox="0 0 48 48"><title>bolt</title><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M25 14L15 26h9l-1 8 10-12h-9l1-8z"/>
+</symbol>
+<symbol id="book" viewBox="0 0 48 48"><title>book</title><path d="M15.75 9A3.75 3.75 0 0 0 12 12.75V35a3.88 3.88 0 0 1 3.75-4H36V9z" fill="#adcfff"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 35a3.88 3.88 0 0 1 3.75-4H36"/><path d="M15.75 9H36v30H15.75A3.75 3.75 0 0 1 12 35.25v-22.5A3.75 3.75 0 0 1 15.75 9zM30 16H18M30 20H18M30 24H18"/></g>
+</symbol>
+<symbol id="browser" viewBox="0 0 48 48"><title>browser</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect x="16" y="15" width="18" height="18" rx="2" ry="2"/><path d="M16 21h18M22 33V21"/></g>
+</symbol>
+<symbol id="calendar" viewBox="0 0 48 48"><title>calendar</title><path d="M13 11h22a3 3 0 0 1 3 3v6H10v-6a3 3 0 0 1 3-3z" fill="#adcfff"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect x="10" y="11" width="28" height="28" rx="3.11" ry="3.11"/><path d="M32 9v4M16 9v4M10 20h28"/></g>
+</symbol>
 <symbol id="circle" viewBox="0 0 48 48"><circle cx="24" cy="24" r="16" fill="#ff8097"/><path d="M15 22a3 3 0 0 1 6 0m6 0a3 3 0 0 1 6 0m-5 5a4 4 0 0 1-8 0" fill="none" stroke="#800018" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
 </symbol>
-<symbol id="error" viewBox="0 0 48 48"><path fill="#ff8097" d="M24 10L8 38h32L24 10z"/><path d="M24 20.75v8m0 3.5v1" fill="none" stroke="#800018" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+<symbol id="clock" viewBox="0 0 48 48"><title>clock</title><circle cx="24" cy="24" r="16" fill="#adcfff"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="24" cy="24" r="16"/><path d="M24 15.6V24l4.2 4.2"/></g>
 </symbol>
-<symbol id="eye" viewBox="0 0 48 48"><path d="M42 25s-7 12-18 12C12 37 6 25 6 25s7-12 18-12 18 12 18 12z" fill="#75cdff"/><circle cx="24" cy="25" r="6" fill="none" stroke="#004e7a" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+<symbol id="compass" viewBox="0 0 48 48"><title>compass</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="24" cy="25" r="10"/><path d="M28.24 20.76l-2.12 6.36-6.36 2.12 2.12-6.36 6.36-2.12z"/></g>
+</symbol>
+<symbol id="edit" viewBox="0 0 48 48"><title>edit</title><path fill="#adcfff" d="M33.29 9L39 14.71 24.71 29H19v-5.71L33.29 9z"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M38 27.58v8.31A3.11 3.11 0 0 1 34.89 39H13.11A3.11 3.11 0 0 1 10 35.89V14.11A3.11 3.11 0 0 1 13.11 11h8.31"/><path d="M33.29 9L39 14.71 24.71 29H19v-5.71L33.29 9z"/></g>
+</symbol>
+<symbol id="email" viewBox="0 0 48 48"><title>email</title><rect x="5" y="12" width="38" height="24" rx="2" ry="2" fill="#adcfff"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M5 12h38v24H5z"/><path d="M43 12L24 29 5 12M43 36L30 25M18 25L5 36"/></g>
+</symbol>
+<symbol id="error" viewBox="0 0 48 48"><title>error</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="22" cy="24" r="10"/><path d="M14.93 16.93l14.14 14.14"/></g>
+</symbol>
+<symbol id="export" viewBox="0 0 48 48"><title>export</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M33 34H14V15M23 16h9v10M32 16L19 29"/></g>
+</symbol>
+<symbol id="eye" viewBox="0 0 48 48"><title>eye</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M13 27s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="24" cy="27" r="3"/></g>
+</symbol>
+<symbol id="geolocation" viewBox="0 0 48 48"><title>geolocation</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="25" cy="24" r="10"/><path d="M35 24h-4M19 24h-4M25 18v-4M25 34v-4"/></g>
 </symbol>
 <symbol id="hexagon" viewBox="0 0 48 48"><path fill="#ff6bb2" d="M32 10H16L8 24l8 14h16l8-14-8-14z"/><path d="M15 21a3 3 0 0 1 6 0m6 0a3 3 0 0 1 6 0m-5 5a4 4 0 0 1-8 0" fill="none" stroke="#6b0033" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
 </symbol>
+<symbol id="home" viewBox="0 0 48 48"><title>home</title><path fill="#adcfff" d="M24 5l8 8 8 8H8l8-8 8-8z"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M20 41V29h8v12"/><path d="M12 21h24v18a2 2 0 0 1-2 2H14a2 2 0 0 1-2-2V21zM24 5l8 8 8 8H8l8-8 8-8z"/></g>
+</symbol>
+<symbol id="image" viewBox="0 0 48 48"><title>image</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect x="16" y="15" width="18" height="18" rx="2" ry="2"/><circle cx="21.5" cy="20.5" r="1.5"/><path d="M34 27l-5-5-11 11"/></g>
+</symbol>
+<symbol id="info" viewBox="0 0 48 48"><title>info</title><circle cx="24" cy="24" r="16" fill="#adcfff"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="24" cy="24" r="16"/><path d="M24 31v-8M24 19.5v-1"/></g>
+</symbol>
 <symbol id="lightbulb" viewBox="0 0 48 48"><path fill="#ffaf80" d="M18 29h12v12H18z"/><path d="M36 19.35c0 6.83-6.86 12.36-12 17.65-5.14-5.29-12-10.82-12-17.65A12.18 12.18 0 0 1 24 7a12.18 12.18 0 0 1 12 12.35z" fill="#ffaf80"/><path d="M30 32c0 1.1-2.69 2-6 2s-6-.9-6-2m12 8c0 1.1-2.69 2-6 2s-6-.9-6-2m12-4c0 1.1-2.69 2-6 2s-6-.9-6-2" fill="none" stroke="#843200" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
 </symbol>
+<symbol id="location" viewBox="0 0 48 48"><title>location</title><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 24l19-9-9 19-2-8-8-2z"/>
+</symbol>
+<symbol id="lock" viewBox="0 0 48 48"><title>lock</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect x="16" y="22" width="18" height="11" rx="2" ry="2"/><path d="M20 22v-4a5 5 0 0 1 10 0v4"/></g>
+</symbol>
 <symbol id="logo" viewBox="0 0 16 16"><path d="M8 0a8 8 0 1 0 8 8 8 8 0 0 0-8-8zm4.21 12.21a3.48 3.48 0 0 1-2.46.95 3.48 3.48 0 0 1-2.46-.95A1 1 0 0 1 8.7 10.8a1.78 1.78 0 0 0 2.09 0 1.7 1.7 0 0 0 0-2.09 1.78 1.78 0 0 0-2.09 0 3.48 3.48 0 0 1-2.46.95 3.47 3.47 0 0 1-2.46-.95 3.66 3.66 0 0 1 0-4.91 3.66 3.66 0 0 1 4.91 0 1 1 0 0 1-1.4 1.41 1.78 1.78 0 0 0-2.09 0 1.7 1.7 0 0 0 0 2.09 1.78 1.78 0 0 0 2.09 0 3.66 3.66 0 0 1 4.91 0 3.66 3.66 0 0 1 .01 4.91z"/>
+</symbol>
+<symbol id="marker" viewBox="0 0 48 48"><title>marker</title><circle cx="24" cy="20" r="4" fill="#adcfff"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M38 20.73C38 32.18 24 42 24 42s-14-9.82-14-21.27C10 12.59 16.27 6 24 6s14 6.59 14 14.73z"/><circle cx="24" cy="20" r="4"/></g>
+</symbol>
+<symbol id="mic" viewBox="0 0 48 48"><title>mic</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M21 13a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0v-8a3 3 0 0 0-3-3z"/><path d="M28 22v2a7 7 0 0 1-14 0v-2M21 31v4M17 35h8"/></g>
+</symbol>
+<symbol id="person" viewBox="0 0 48 48"><title>person</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M32 37v-2a4 4 0 0 0-4-4h-8a4 4 0 0 0-4 4v2"/><circle cx="24" cy="23" r="4"/><circle cx="24" cy="24" r="16"/></g>
 </symbol>
 <symbol id="rectangle-horizontal" viewBox="0 0 48 48"><path fill="#ffaf80" d="M0 12h48v24H0z"/><path d="M15 21a3 3 0 0 1 6 0m6 0a3 3 0 0 1 6 0m-5 5a4 4 0 0 1-8 0" fill="none" stroke="#843200" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
 </symbol>
@@ -22,9 +58,23 @@
 </symbol>
 <symbol id="rounded-vertical" viewBox="0 0 48 48"><rect y="12" width="48" height="24" rx="12" ry="12" transform="rotate(90 24 24)" fill="#95959a"/><path d="M15 21a3 3 0 0 1 6 0m6 0a3 3 0 0 1 6 0m-5 5a4 4 0 0 1-8 0" fill="none" stroke="#3b3b41" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
 </symbol>
+<symbol id="search" viewBox="0 0 48 48"><title>search</title><circle cx="21" cy="21" r="12" fill="#adcfff"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="21" cy="21" r="12"/><path d="M39 39l-9-9"/></g>
+</symbol>
+<symbol id="settings" viewBox="0 0 48 48"><title>settings</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="23" cy="24" r="3"/><path d="M30.4 27a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.66 1.66 0 0 0-2.82 1.18V33a2 2 0 0 1-4 0v-.09a1.73 1.73 0 0 0-2.9-1.18l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.66 1.66 0 0 0-1.18-2.82H14a2 2 0 0 1 0-4h.09a1.73 1.73 0 0 0 1.18-2.9l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H20a1.65 1.65 0 0 0 1-1.51V15a2 2 0 0 1 4 0v.09a1.66 1.66 0 0 0 2.82 1.18l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V21a1.65 1.65 0 0 0 1.51 1H32a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></g>
+</symbol>
+<symbol id="smile" viewBox="0 0 48 48"><title>smile</title><circle cx="24" cy="24" r="16" fill="#adcfff"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="24" cy="24" r="16"/><path d="M15 22a3 3 0 0 1 6 0M27 22a3 3 0 0 1 6 0M28 27a4 4 0 0 1-8 0"/></g>
+</symbol>
 <symbol id="square" viewBox="0 0 48 48"><path fill="#80b9ff" d="M8 8h32v32H8z"/><path d="M14.5 21.5a3 3 0 0 1 6 0m6 0a3 3 0 0 1 6 0m-5 5a4 4 0 0 1-8 0" fill="none" stroke="#003a80" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+</symbol>
+<symbol id="star" viewBox="0 0 48 48"><title>star</title><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M23 14l3.09 6.26L33 21.27l-5 4.87 1.18 6.88L23 29.77l-6.18 3.25L18 26.14l-5-4.87 6.91-1.01L23 14z"/>
+</symbol>
+<symbol id="support" viewBox="0 0 48 48"><title>support</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="23" cy="24" r="10"/><circle cx="23" cy="24" r="4"/><path d="M15.93 16.93l4.24 4.24M25.83 26.83l4.24 4.24M25.83 21.17l4.24-4.24M25.83 21.17l3.53-3.53M15.93 31.07l4.24-4.24"/></g>
+</symbol>
+<symbol id="tag" viewBox="0 0 48 48"><title>tag</title><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M31.59 27.41l-7.17 7.17a2 2 0 0 1-2.83 0L13 26V16h10l8.59 8.59a2 2 0 0 1 0 2.82zM18 21"/></g>
+</symbol>
+<symbol id="thumb" viewBox="0 0 48 48"><title>thumb</title><path d="M25 21v-4a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9A2 2 0 0 0 31 21h-.32zm-7 13h-3a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
 </symbol>
 <symbol id="triangle" viewBox="0 0 48 48"><path fill="#bc6cff" d="M24 10L8 38h32L24 10z"/><path d="M14.5 23.5a3 3 0 0 1 6 0m6 0a3 3 0 0 1 6 0m-5 5a4 4 0 0 1-8 0" fill="none" stroke="#410075" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
 </symbol>
-<symbol id="warning" viewBox="0 0 48 48"><path fill="#ffaf80" d="M24 10L8 38h32L24 10z"/><path d="M24 21v8m0 3.5v1" fill="none" stroke="#843200" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+<symbol id="warning" viewBox="0 0 48 48"><title>warning</title><path d="M21.38 11.49l-13 21.87a3.11 3.11 0 0 0 1.12 4.23A3 3 0 0 0 11 38h26a3.08 3.08 0 0 0 3-3.13 3.12 3.12 0 0 0-.41-1.51l-13-21.87a3 3 0 0 0-4.21-1 3.08 3.08 0 0 0-1 1z" fill="#adcfff"/><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M21.38 11.49l-13 21.87a3.11 3.11 0 0 0 1.12 4.23A3 3 0 0 0 11 38h26a3.08 3.08 0 0 0 3-3.13 3.12 3.12 0 0 0-.41-1.51l-13-21.87a3 3 0 0 0-4.21-1 3.08 3.08 0 0 0-1 1zM24 20v8M24 32v1"/></g>
 </symbol></svg>
