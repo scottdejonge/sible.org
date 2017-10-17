@@ -1,5 +1,5 @@
 ---
-layout: container
+layout: content
 order: 120
 title: Privacy Policy
 description: "Privacy policy tells you how we collect and use information."

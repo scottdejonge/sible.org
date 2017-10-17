@@ -1,5 +1,5 @@
 ---
-layout: container
+layout: content
 order: 100
 title: Accessibility
 description: "The Sible website aims to meet the World Wide Web Consortium’s Web Content Accessibility Guidelines version 2.0 (WCAG 2.0) at level AA."
