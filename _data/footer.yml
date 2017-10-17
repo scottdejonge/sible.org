@@ -5,10 +5,10 @@
       url: /
     - title: Features
       url: /features
-    - title: Blog
-      url: /blog
     - title: About
       url: /about
+    - title: Blog
+      url: /blog
 - title: Organisation
   url: null
   sublinks:
