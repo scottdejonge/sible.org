@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640" viewBox="0 0 640 640">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-915" y="-633" width="1619" height="336" fill="none"/>
+    </clipPath>
+  </defs>
+  <title>hero-left</title>
+  <g clip-path="url(#clip-path)">
+    <image width="1600" height="1200" transform="translate(-896 -1100)" xlink:href="../../Desktop/att1.png"/>
+  </g>
+  <line y1="631" x2="640" y2="631" fill="none" stroke="#000" stroke-width="2"/>
+</svg>

@@ -75,6 +75,7 @@
  */
 
 @import './component/action';
+@import './component/hero';
 @import './component/symbol';
 
 

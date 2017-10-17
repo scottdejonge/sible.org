@@ -1,0 +1,136 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640" viewBox="0 0 640 640">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-1575" y="-633" width="1619" height="336" fill="none"/>
+    </clipPath>
+  </defs>
+  <title>hero-right</title>
+  <g clip-path="url(#clip-path)">
+    <image width="1600" height="1200" transform="translate(-1556 -1100)" xlink:href="../../Desktop/att1.png"/>
+  </g>
+  <rect x="479" y="391" width="160" height="240" fill="#adcfff" stroke="#000" stroke-width="2"/>
+  <rect x="467" y="375" width="172" height="16" fill="#76aeff" stroke="#000" stroke-width="2"/>
+  <rect x="479" y="367" width="160" height="8" fill="#76aeff" stroke="#000" stroke-width="2"/>
+  <line y1="631" x2="640" y2="631" fill="none" stroke="#000" stroke-width="2"/>
+  <g>
+    <g>
+      <rect x="559" y="575" width="32" height="56" fill="#76aeff" stroke="#000" stroke-width="2"/>
+      <rect x="564" y="581" width="8" height="16" fill="none" stroke="#0c70fe" stroke-width="2"/>
+      <rect x="578" y="581" width="8" height="16" fill="none" stroke="#0c70fe" stroke-width="2"/>
+      <rect x="564" y="605" width="8" height="20" fill="none" stroke="#0c70fe" stroke-width="2"/>
+      <rect x="578" y="605" width="8" height="20" fill="none" stroke="#0c70fe" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="527" y="575" width="32" height="56" fill="#76aeff" stroke="#000" stroke-width="2"/>
+      <rect x="532" y="581" width="8" height="16" fill="none" stroke="#0c70fe" stroke-width="2"/>
+      <rect x="546" y="581" width="8" height="16" fill="none" stroke="#0c70fe" stroke-width="2"/>
+      <rect x="532" y="605" width="8" height="20" fill="none" stroke="#0c70fe" stroke-width="2"/>
+      <rect x="546" y="605" width="8" height="20" fill="none" stroke="#0c70fe" stroke-width="2"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect x="601" y="523" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="601" y="543" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="599" y="555" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="565" y="523" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="565" y="543" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="563" y="555" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="529" y="523" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="529" y="543" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="527" y="555" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="494" y="523" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="494" y="543" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="492" y="555" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect x="601" y="471" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="601" y="491" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="599" y="503" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="565" y="471" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="565" y="491" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="563" y="503" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="529" y="471" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="529" y="491" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="527" y="503" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="494" y="471" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="494" y="491" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="492" y="503" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect x="601" y="419" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="601" y="439" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="599" y="451" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="565" y="419" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="565" y="439" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="563" y="451" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="529" y="419" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="529" y="439" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="527" y="451" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="494" y="419" width="24" height="32" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="494" y="439" width="24" height="12" fill="#fff" stroke="#000" stroke-width="2"/>
+      <rect x="492" y="451" width="28" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    </g>
+  </g>
+  <rect x="223" y="551" width="160" height="80" fill="#adcfff" stroke="#000" stroke-width="2"/>
+  <g>
+    <rect x="239" y="575" width="32" height="56" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    <rect x="244" y="581" width="8" height="16" fill="none" stroke="#0c70fe" stroke-width="2"/>
+    <rect x="258" y="581" width="8" height="16" fill="none" stroke="#0c70fe" stroke-width="2"/>
+    <rect x="244" y="605" width="8" height="20" fill="none" stroke="#0c70fe" stroke-width="2"/>
+    <rect x="258" y="605" width="8" height="20" fill="none" stroke="#0c70fe" stroke-width="2"/>
+  </g>
+  <rect x="287" y="567" width="80" height="64" fill="#ccc" stroke="#000" stroke-width="2"/>
+  <rect x="211" y="535" width="172" height="16" fill="#76aeff" stroke="#000" stroke-width="2"/>
+  <g>
+    <rect x="199" y="615" width="24" height="16" fill="#ccc" stroke="#000" stroke-width="2"/>
+    <g>
+      <circle cx="210" cy="578" r="12" fill="#0a0"/>
+      <circle cx="215" cy="601" r="4" fill="#0a0"/>
+      <circle cx="205" cy="605" r="4" transform="translate(-416.71 751.72) rotate(-84.56)" fill="#0a0"/>
+      <path d="M210,590v24" fill="none" stroke="#805f3e" stroke-width="2"/>
+    </g>
+  </g>
+  <rect x="383" y="451" width="96" height="180" fill="#adcfff" stroke="#000" stroke-width="2"/>
+  <g>
+    <rect x="407" y="539" width="48" height="16" fill="#fff" stroke="#000" stroke-width="2"/>
+    <path d="M407,539a24,24,0,0,1,48,0Z" fill="#fff" stroke="#000" stroke-width="2"/>
+    <path d="M439,555V535a8,8,0,0,0-16,0v20Z" fill="#fff" stroke="#000" stroke-width="2"/>
+    <rect x="403" y="555" width="56" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+  </g>
+  <g>
+    <rect x="407" y="489" width="48" height="16" fill="#fff" stroke="#000" stroke-width="2"/>
+    <path d="M407,489a24,24,0,0,1,48,0Z" fill="#fff" stroke="#000" stroke-width="2"/>
+    <path d="M439,505V485a8,8,0,0,0-16,0v20Z" fill="#fff" stroke="#000" stroke-width="2"/>
+    <rect x="403" y="505" width="56" height="4" fill="#76aeff" stroke="#000" stroke-width="2"/>
+  </g>
+  <g>
+    <rect x="415" y="574" width="32" height="56" fill="#76aeff" stroke="#000" stroke-width="2"/>
+    <rect x="420" y="580" width="8" height="16" fill="none" stroke="#0c70fe" stroke-width="2"/>
+    <rect x="434" y="580" width="8" height="16" fill="none" stroke="#0c70fe" stroke-width="2"/>
+    <rect x="420" y="604" width="8" height="20" fill="none" stroke="#0c70fe" stroke-width="2"/>
+    <rect x="434" y="604" width="8" height="20" fill="none" stroke="#0c70fe" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+.hero {
+  background-image: url('/sible.org/assets/images/hero-left.svg'),
+                    url('/sible.org/assets/images/hero-right.svg');
+  background-repeat: no-repeat,
+                     no-repeat;
+  background-position: bottom left,
+                       bottom right;
+
+  @media (--m-down) {
+    background-size: 20rem, 20rem;
+  }
+
+  @media (--xs) {
+    background-size: 10rem, 10rem;
+  }
+}
