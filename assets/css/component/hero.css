@@ -1,5 +1,6 @@
 .hero {
   text-align: center;
+  background-color: var(--primary-50);
   background-image: url('/sible.org/assets/images/hero-left.svg'),
                     url('/sible.org/assets/images/hero-right.svg');
   background-repeat: no-repeat,
