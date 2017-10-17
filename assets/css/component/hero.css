@@ -1,4 +1,5 @@
 .hero {
+  text-align: center;
   background-image: url('/sible.org/assets/images/hero-left.svg'),
                     url('/sible.org/assets/images/hero-right.svg');
   background-repeat: no-repeat,
@@ -11,6 +12,9 @@
   }
 
   @media (--xs) {
-    background-size: 10rem, 10rem;
+    text-align: left;
+    background-image: url('/sible.org/assets/images/hero-right.svg');
+    background-position: bottom right;
+    background-size: 20rem;
   }
 }
