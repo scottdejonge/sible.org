@@ -1,21 +1,12 @@
 .hero {
-  text-align: center;
-  background-color: var(--primary-50);
-  background-image: url('/sible.org/assets/images/hero-left.svg'),
-                    url('/sible.org/assets/images/hero-right.svg');
-  background-repeat: no-repeat,
-                     no-repeat;
-  background-position: bottom left,
-                       bottom right;
+  justify-content: flex-start;
+  background-repeat: repeat-x;
+  background-image: url('/sible.org/assets/images/hero.svg');
+  background-repeat: repeat-x;
+  background-position: bottom center;
+  background-size: 120rem 40rem;
 
   @media (--m-down) {
-    background-size: 20rem, 20rem;
-  }
-
-  @media (--xs) {
-    text-align: left;
-    background-image: url('/sible.org/assets/images/hero-right.svg');
-    background-position: bottom right;
-    background-size: 20rem;
+    background-size: 60rem 20rem;
   }
 }
