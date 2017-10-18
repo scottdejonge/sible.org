@@ -1,7 +1,8 @@
 .title {
   margin: 0.5em 0;
+  font-weight: var(--font-weight-semibold);
   font-size: 2rem;
-  line-height: 1.2;
+  line-height: 1.1;
 
   & em {
     display: inline-block;
@@ -14,7 +15,7 @@
   font-size: 1.0rem;
 
   @media (--s-up) { 
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   } 
 
   @media (--l-up) {
@@ -26,11 +27,11 @@
   font-size: 1.5rem;
 
  @media (--s-up) {
-    font-size: 2.0rem;
+    font-size: 1.75rem;
   }
 
  @media (--l-up) {
-    font-size: 2.5rem;
+    font-size: 2.0rem;
   }
 }
 
@@ -50,11 +51,11 @@
   font-size: 2.5rem;
 
  @media (--s-up) {
-    font-size: 3.0rem;
+    font-size: 2.75rem;
   }
 
  @media (--l-up) {
-    font-size: 4.0rem;
+    font-size: 3.0rem;
   }
 }
 
@@ -62,10 +63,10 @@
   font-size: 3.0rem;
 
  @media (--s-up) {
-    font-size: 4.0rem;
+    font-size: 3.5rem;
   }
 
  @media (--l-up) {
-    font-size: 5.0rem;
+    font-size: 4.0rem;
   }
 }
