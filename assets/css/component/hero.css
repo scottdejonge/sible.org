@@ -1,5 +1,5 @@
 .hero {
-  height: 40rem;
+  height: 50rem;
   justify-content: flex-start;
   background-repeat: repeat-x;
   background-image: url('/sible.org/assets/images/hero.svg');
@@ -8,7 +8,7 @@
   background-size: 120rem 40rem;
 
   @media (--s-down) {
-    height: 30rem;
+    height: 40rem;
     background-size: 60rem 20rem;
   }
 }

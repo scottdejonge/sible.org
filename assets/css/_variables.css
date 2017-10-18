@@ -772,7 +772,7 @@
    * Media
    */
 
-  --media-background: color(var(--black) alpha(10%));
+  --media-background: var(--light-50);
   --media-border-radius: var(--border-radius);
 
 

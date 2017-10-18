@@ -9,11 +9,11 @@
   @custom-media --s (min-width: 640px) and (max-width: 1023px);
   @custom-media --s-up (min-width: 640px);
   @custom-media --s-down (max-width: 1023px);
-  @custom-media --m (min-width: 1024px) and (max-width: 1279px);
+  @custom-media --m (min-width: 1024px) and (max-width: 1359px);
   @custom-media --m-up (min-width: 1024px);
-  @custom-media --m-down (max-width: 1279px);
-  @custom-media --l (min-width: 1280px) and (max-width: 1679px);
-  @custom-media --l-up (min-width: 1280px);
+  @custom-media --m-down (max-width: 1359px);
+  @custom-media --l (min-width: 1360px) and (max-width: 1679px);
+  @custom-media --l-up (min-width: 1360px);
   @custom-media --l-down (max-width: 1679px);
   @custom-media --xl (min-width: 1680px);
 
