@@ -16,15 +16,14 @@
   margin: -var(--gutter);
 
   & > ul {
+    display: flex;
+    flex-wrap: wrap;
     
     & > li {
       padding: var(--gutter);
-    }
-
-    @media (--s-up) {
-      display: flex;
-    
-      & > li {
+      flex: 0 0 50%;
+      
+      @media (--s-up) {
         flex: 1 1 0;
       }
     }
