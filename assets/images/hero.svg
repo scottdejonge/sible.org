@@ -229,8 +229,8 @@
     <g>
       <rect x="1359" y="559" width="160" height="80" fill="none" stroke="#000" stroke-width="2"/>
       <g>
-        <rect x="1375" y="583" width="32" height="56" fill="none" stroke="#000" stroke-width="2"/>
-        <rect x="1380" y="589" width="22" height="44" fill="none" stroke="#000" stroke-width="2"/>
+        <rect x="1375" y="583" width="32" height="56" fill="#f0143d" stroke="#000" stroke-width="2"/>
+        <rect x="1380" y="589" width="22" height="44" fill="#f0143d" stroke="#000" stroke-width="2"/>
       </g>
       <rect x="1423" y="575" width="80" height="64" fill="none" stroke="#000" stroke-width="2"/>
       <rect x="1419" y="567" width="88" height="8" fill="none" stroke="#000" stroke-width="2"/>
@@ -497,8 +497,8 @@
   <line x1="8" y1="631" x2="12" y2="631" fill="none" stroke="#000" stroke-width="2"/>
   <line x1="16" y1="631" x2="20" y2="631" fill="none" stroke="#000" stroke-width="2"/>
   <g>
-    <path d="M1473.5,635h-21c-.83,0-1.5.9-1.5,2s.67,2,1.5,2h21c.83,0,1.5-.9,1.5-2S1474.33,635,1473.5,635Z" fill="#f0143d" stroke="#000" stroke-width="2"/>
-    <path d="M1464.5,614.75a1.88,1.88,0,0,0-3,0l-6,20.25h15Z" fill="#f0143d" stroke="#000" stroke-width="2"/>
+    <path d="M1769.5,635h-21c-.83,0-1.5.9-1.5,2s.67,2,1.5,2h21c.83,0,1.5-.9,1.5-2S1770.33,635,1769.5,635Z" fill="#fb650b" stroke="#000" stroke-width="2"/>
+    <path d="M1760.5,614.75a1.88,1.88,0,0,0-3,0l-6,20.25h15Z" fill="#fb650b" stroke="#000" stroke-width="2"/>
   </g>
   <g>
     <rect x="1346" y="627" width="4" height="12" fill="none" stroke="#000" stroke-width="2"/>
@@ -659,5 +659,10 @@
     <path d="M1338.06,589.88a1.06,1.06,0,0,1,2,0l2,3.46,2,3.46,2,3.46c.55,1,.1,1.73-1,1.73h-12c-1.1,0-1.55-.78-1-1.73l2-3.46,2-3.46Z" fill="#fb650b"/>
     <line x1="1339" y1="596.5" x2="1339" y2="593.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="1339" y1="600" x2="1339" y2="600" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+  <g>
+    <path d="M1758.06,589.88a1.06,1.06,0,0,1,2,0l2,3.46,2,3.46,2,3.46c.55,1,.1,1.73-1,1.73h-12c-1.1,0-1.55-.78-1-1.73l2-3.46,2-3.46Z" fill="#fb650b"/>
+    <line x1="1759" y1="596.5" x2="1759" y2="593.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="1759" y1="600" x2="1759" y2="600" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

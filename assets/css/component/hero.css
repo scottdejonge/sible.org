@@ -7,7 +7,7 @@
   background-position: bottom center;
   background-size: 120rem 40rem;
 
-  @media (--m-down) {
+  @media (--s-down) {
     height: 30rem;
     background-size: 60rem 20rem;
   }
