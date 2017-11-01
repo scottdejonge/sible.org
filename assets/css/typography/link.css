@@ -1,3 +1,7 @@
 a {
   text-decoration-skip: ink;
 }
+
+a:not(.button) {
+  text-decoration-skip: ink;
+}
