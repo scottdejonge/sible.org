@@ -1,7 +1,6 @@
 .hero {
   padding-bottom: 20rem;
   justify-content: flex-start;
-  background-repeat: repeat-x;
   background-image: url('/sible.org/assets/images/hero.svg');
   background-repeat: repeat-x;
   background-position: bottom center;
