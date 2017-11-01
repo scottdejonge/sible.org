@@ -33,18 +33,20 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    color: currentColor;
   }
 
   & li {
     display: block;
     margin: 0;
     padding: 0;
+    color: currentColor;
   }
 
   & a {
     display: block;
     padding: 0.25em 0;
-    color: var(--grey);
+    color: currentColor;
 
     &:hover,
     &:focus {
