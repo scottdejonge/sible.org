@@ -150,7 +150,7 @@
    */
 
   --strong-font-family: inherit;
-  --strong-font-weight: var(--font-weight-medium);
+  --strong-font-weight: var(--font-weight-bold);
   --strong-color: inherit;
 
 
