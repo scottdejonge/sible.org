@@ -118,9 +118,9 @@
   --lead-margin: 0.5em 0 1em 0;
   --lead-font-family: inherit;
   --lead-font-weight: inherit;
-  --lead-font-size: var(--font-size-xl);
+  --lead-font-size: var(--font-size-l);
   --lead-color: inherit;
-  --lead-line-height: var(--line-height-m);
+  --lead-line-height: var(--line-height-s);
 
 
   /**
