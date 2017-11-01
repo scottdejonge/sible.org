@@ -36,13 +36,13 @@
   sublinks:
     - title: Facebook
       icon: facebook
-      url: "#"
+      url: "/#"
     - title: Twitter
       icon: twitter
-      url: "#"
+      url: "/#"
     - title: Instagram
       icon: instagram
-      url: "#"
+      url: "/#"
     - title: YouTube
       icon: youtube
-      url: "#"
+      url: "/#"
