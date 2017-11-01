@@ -108,7 +108,7 @@
   --small-caps-font-size: var(--font-size-s);
   --small-caps-line-height: var(--line-height-xs);
   --small-caps-text-transform: uppercase;
-  --small-caps-letter-spacing: var(--letter-spacing);
+  --small-caps-letter-spacing: var(--letter-spacing-m);
 
 
   /**
