@@ -1,25 +1,6 @@
 .symbol {
-  width: 3rem;
-  height: 3rem;
-}
-
-.symbol-s {
-
-  @media (--s-up) {
-    width: 4.5rem;
-    height: 4.5rem;
-  }
-}
-
-.symbol-l {
-
-  @media (--s-up) {
-    width: 6rem;
-    height: 6rem;
-  }
-
-  @media (--l-up) {
-    width: 8rem;
-    height: 8rem;
-  }
+  padding: 0.5rem;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
 }
