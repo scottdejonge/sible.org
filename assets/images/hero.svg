@@ -931,4 +931,5 @@
   <path d="M1219.43,354.34a18,18,0,0,0-31.93-16.46,12,12,0,0,0-15.82,7.15c-.23,0-.45,0-.68,0a12,12,0,0,0,0,24h44a8,8,0,0,0,4.43-14.66Z" fill="none" stroke="#e4e9f7" stroke-width="2"/>
   <circle cx="941" cy="297" r="8" fill="#1eb432"/>
   <polyline points="937 297 940 300 945 294" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <line y1="639" x2="1920" y2="639" fill="none" stroke="#929296" stroke-width="2"/>
 </svg>
