@@ -34,11 +34,7 @@
     "build": "postcss assets/css/main.css -o public/bundle.css",
     "deploy": "webpack -p && npm run build:css",
     "svg": "npm run svgo && npm run sprites",
-    "svgo": "npm run svgo-glyphs && npm run svgo-icons",
-    "svgo-glyphs": "svgo -f assets/glyphs/src --enable=convertStyleToAttrs",
-    "svgo-icons": "svgo -f assets/icons/src --enable=convertStyleToAttrs",
-    "sprites": "npm run sprites-glyphs && npm run sprites-icons",
-    "sprites-glyphs": "svg-sprite-generate -d assets/glyphs/src -o assets/glyphs/glyphs.svg",
-    "sprites-icons": "svg-sprite-generate -d assets/icons/src -o assets/icons/icons.svg"
+    "svgo": "svgo -f assets/glyphs/src --enable=convertStyleToAttrs",
+    "sprites": "svg-sprite-generate -d assets/glyphs/src -o assets/glyphs/glyphs.svg"
   }
 }
