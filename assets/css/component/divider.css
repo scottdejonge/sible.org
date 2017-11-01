@@ -1,6 +1,7 @@
 .divider {
+  margin-top: var(--gutter);
+  margin-bottom: var(--gutter);
   margin-left: 0;
-  margin-bottom: 0;
-  width: 4rem;
+  width: 2rem;
   background: var(--border-color);
 }
