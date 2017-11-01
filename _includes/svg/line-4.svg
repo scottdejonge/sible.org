@@ -1,8 +1,6 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="80" height="8" viewBox="0 0 80 8">
   <title>line-4</title>
-  <g>
-    <path d="M44,0H4A4,4,0,0,0,4,8H44a4,4,0,0,0,0-8Z" fill="#7802DC"/>
-    <path d="M76,0H68a4,4,0,0,0,0,8h8a4,4,0,0,0,0-8Z" fill="#7802DC"/>
-    <circle cx="56" cy="4" r="4" fill="#7802DC"/>
-  </g>
+  <path d="M44,0H4A4,4,0,0,0,4,8H44a4,4,0,0,0,0-8Z" fill="#6428f0"/>
+  <path d="M76,0H68a4,4,0,0,0,0,8h8a4,4,0,0,0,0-8Z" fill="#8c29c8"/>
+  <circle cx="56" cy="4" r="4" fill="#28C8B4"/>
 </svg>
