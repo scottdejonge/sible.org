@@ -7,6 +7,12 @@
     display: block;
     padding: 0.25em;
     text-decoration: none;
+    color: currentColor;
+
+    &:hover,
+    &:focus {
+      color: var(--primary);
+    }
   }
 
   & svg {
