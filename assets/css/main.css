@@ -46,6 +46,7 @@
  */
 
 @import './template/body';
+@import './template/main';
 @import './template/header';
 @import './template/logo';
 @import './template/section';
