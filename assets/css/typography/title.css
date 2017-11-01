@@ -2,7 +2,7 @@
   margin: 0.5em 0;
   font-weight: var(--font-weight-semibold);
   font-size: 2rem;
-  line-height: 1.1;
+  line-height: var(--line-height-xs);
 
   & em {
     display: inline-block;
@@ -14,10 +14,6 @@
 .title-xs {
   font-size: 1.0rem;
 
-  @media (--s-up) { 
-    font-size: 1.25rem;
-  } 
-
   @media (--l-up) {
     font-size: 1.5rem;
   } 
@@ -26,33 +22,21 @@
 .title-s {
   font-size: 1.5rem;
 
- @media (--s-up) {
-    font-size: 1.75rem;
-  }
-
  @media (--l-up) {
     font-size: 2.0rem;
   }
 }
 
 .title-m {
-  font-size: 2.0rem;
-
- @media (--s-up) {
-    font-size: 2.25rem;
-  }
+  font-size: 1.5rem;
 
  @media (--l-up) {
-    font-size: 2.5rem;
+    font-size: 2.0rem;
   }
 }
 
 .title-l {
-  font-size: 2.5rem;
-
- @media (--s-up) {
-    font-size: 2.75rem;
-  }
+  font-size: 2.0rem;
 
  @media (--l-up) {
     font-size: 3.0rem;
@@ -61,10 +45,6 @@
 
 .title-xl {
   font-size: 3.0rem;
-
- @media (--s-up) {
-    font-size: 3.5rem;
-  }
 
  @media (--l-up) {
     font-size: 4.0rem;
