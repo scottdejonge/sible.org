@@ -67,7 +67,7 @@
    */
 
   /* Primary */
-  --primary: rgb(20, 100, 240);
+  --primary: rgb(140, 40, 200);
   --primary-hover: var(--primary-400);
   --primary-active: var(--primary-600);
   --primary-50: color(var(--primary-100) tint(60%) saturation(+50%));
@@ -82,7 +82,7 @@
   --primary-900: color(var(--primary-800) shade(30%) saturation(+30%));
 
   /* Secondary */
-  --secondary: rgb(120, 0, 220);
+  --secondary: rgb(100, 40, 240);
   --secondary-hover: var(--secondary-400);
   --secondary-active: var(--secondary-600);
   --secondary-50: color(var(--secondary-100) tint(60%) saturation(+50%));
@@ -97,7 +97,7 @@
   --secondary-900: color(var(--secondary-800) shade(30%) saturation(+30%));
 
   /* Tertiary */
-  --tertiary: rgb(200, 10, 100);
+  --tertiary: rgb(40, 200, 180);
   --tertiary-hover: var(--tertiary-400);
   --tertiary-active: var(--tertiary-600);
   --tertiary-50: color(var(--tertiary-100) tint(60%) saturation(+50%));
@@ -116,7 +116,7 @@
    */
 
   /* Info */
-  --info: rgb(40, 160, 255);
+  --info: rgb(20, 100, 240);
   --info-hover: var(--info-400);
   --info-active: var(--info-600);
   --info-50: color(var(--info-100) tint(60%) saturation(+50%));
