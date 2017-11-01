@@ -179,8 +179,8 @@
    * Font
    */
 
-  --font-family: 'Open Sans', var(--font-family-system);
-  --font-family-system: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-family: Roboto, var(--font-family-system);
+  --font-family-system: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-family-serif: Georgia, "Times New Roman", Times, serif;
   --font-family-monospace: Monaco, Menlo, Consolas, "Courier New", monospace;
@@ -191,13 +191,13 @@
    */
 
   --font-weight: normal;
-  --font-weight-thin: 200;
+  --font-weight-thin: 300;
   --font-weight-light: 300;
   --font-weight-regular: 400;
   --font-weight-medium: 500;
-  --font-weight-semibold: 600;
+  --font-weight-semibold: 500;
   --font-weight-bold: 700;
-  --font-weight-black: 800;
+  --font-weight-black: 700;
 
 
   /**

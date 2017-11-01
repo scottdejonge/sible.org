@@ -39,7 +39,7 @@
 
   --headings-margin: 1.5em 0 0.5em 0;
   --headings-font-family: inherit;
-  --headings-font-weight: var(--font-weight-semibold);
+  --headings-font-weight: var(--font-weight-medium);
   --headings-color: inherit;
   --headings-line-height: var(--line-height-s);
   --headings-text-transform: none;
@@ -104,7 +104,7 @@
   
   --small-caps-margin: 1em 0;
   --small-caps-font-family: var(--headings-font-family);
-  --small-caps-font-weight: var(--headings-font-weight);
+  --small-caps-font-weight: var(--font-weight-bold);
   --small-caps-font-size: var(--font-size-s);
   --small-caps-line-height: var(--line-height-xs);
   --small-caps-text-transform: uppercase;
@@ -150,7 +150,7 @@
    */
 
   --strong-font-family: inherit;
-  --strong-font-weight: var(--font-weight-bold);
+  --strong-font-weight: var(--font-weight-medium);
   --strong-color: inherit;
 
 
@@ -653,10 +653,10 @@
    */
 
   --button-padding-vertical: calc((var(--button-height) - var(--button-font-size) - (var(--button-border-width) * 2)) / 2);
-  --button-padding-horizontal: 1.5em;
+  --button-padding-horizontal: 1.25em;
   --button-height: var(--height-m);
   --button-font-family: inherit;
-  --button-font-weight: var(--font-weight-semibold);
+  --button-font-weight: var(--font-weight-bold);
   --button-font-size: var(--font-size-m);
   --button-color: var(--dark);
   --button-line-height: 1;
