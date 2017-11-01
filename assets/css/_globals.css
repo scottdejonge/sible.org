@@ -5,9 +5,9 @@
    * Media Queries
    */
 
-  @custom-media --xs (max-width: 639px);
-  @custom-media --s (min-width: 640px) and (max-width: 1023px);
-  @custom-media --s-up (min-width: 640px);
+  @custom-media --xs (max-width: 767px);
+  @custom-media --s (min-width: 768px) and (max-width: 1023px);
+  @custom-media --s-up (min-width: 768px);
   @custom-media --s-down (max-width: 1023px);
   @custom-media --m (min-width: 1024px) and (max-width: 1359px);
   @custom-media --m-up (min-width: 1024px);
