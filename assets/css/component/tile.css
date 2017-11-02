@@ -1,0 +1,14 @@
+.tile {
+  height: 40rem;
+  background-image: url('/sible.org/assets/images/tile.svg');
+  background-repeat: repeat-y;
+  background-position: bottom right;
+  background-size: 40rem;
+
+  @media (--s-down) {
+    justify-content: flex-start;
+    background-position: bottom left;
+    background-repeat: repeat-x;
+    background-size: 20rem;
+  }
+}
