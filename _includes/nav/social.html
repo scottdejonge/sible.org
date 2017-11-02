@@ -1,6 +1,7 @@
 <nav class="social">
   <ul>
     {% for link in site.data.social %}
+    {% if link.url %}
     <li>
       <a href="{{ link.url }}">
         <svg width="24" height="24" class="fill-current-color" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -9,6 +10,7 @@
         <span class="screen-reader">{{ link.title }}</span>
       </a>
     </li>
+    {% endif %}
     {% endfor %}
   </ul>
 </nav>

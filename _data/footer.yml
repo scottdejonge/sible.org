@@ -34,15 +34,15 @@
 - title: Social
   url: null
   sublinks:
-    - title: Facebook
-      icon: facebook
-      url: "/#"
-    - title: Twitter
-      icon: twitter
-      url: "/#"
-    - title: Instagram
-      icon: instagram
-      url: "/#"
-    # - title: YouTube
-    #   icon: youtube
-    #   url: "/#"
+  - title: Facebook
+    icon: facebook
+    url: "https://www.facebook.com/Sible-144014133015034/"
+  - title: Twitter
+    icon: twitter
+    url: "https://twitter.com/sibleorg"
+  - title: Instagram
+    icon: instagram
+    url: "https://www.instagram.com/sibleorg/"
+  - title: YouTube
+    icon: youtube
+    url: "https://www.youtube.com/channel/UCzHw2qhfRWFCj1tKngLjnRg"
