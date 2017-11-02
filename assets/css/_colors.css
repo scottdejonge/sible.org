@@ -97,7 +97,7 @@
   --secondary-900: color(var(--secondary-800) shade(30%) saturation(+30%));
 
   /* Tertiary */
-  --tertiary: rgb(40, 200, 180);
+  --tertiary: rgb(20, 190, 175);
   --tertiary-hover: var(--tertiary-400);
   --tertiary-active: var(--tertiary-600);
   --tertiary-50: color(var(--tertiary-100) tint(60%) saturation(+50%));
