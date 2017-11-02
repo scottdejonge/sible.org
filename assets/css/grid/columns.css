@@ -15,12 +15,12 @@
 
 .column {
   position: relative;
-  flex: 0 0 100%;
+  flex: 0 0 auto;
   display: flex;
   flex-direction: column;
   margin: 0;
   padding: 0;
-  max-width: 100%;
+  width: 100%;
 }
   
 .column-inner {
@@ -45,27 +45,74 @@
   }
 }
 
+/**
+ * Columns
+ */
+
 .columns-1-2 .column {
   
   @media (--s-up) {
-    flex: 0 0 calc(100% / 2);
+    width: calc(100% / 2);
   }
 }
 
 .columns-1-3 .column {
   
   @media (--s-up) {
-    flex: 0 0 calc(100% / 3);
+    width: calc(100% / 3);
   }
 }
 
 .columns-1-4 .column {
   
   @media (--s-up) {
-    flex: 0 0 calc(100% / 2);
+    width: calc(100% / 2);
   }
   
   @media (--l-up) {
-    flex: 0 0 calc(100% / 4);
+    width: calc(100% / 4);
+  }
+}
+
+/**
+ * Column
+ */
+
+.column-1-2 {
+  
+  @media (--s-up) {
+    width: calc(100% / 2);
+  }
+}
+
+.column-1-3 {
+  
+  @media (--s-up) {
+    width: calc(100% / 3);
+  }
+}
+
+.column-2-3 {
+  
+  @media (--s-up) {
+    width: calc((100% / 3) * 2);
+  }
+}
+
+.column-1-4 {
+  
+  @media (--s-up) {
+    width: calc(100% / 2);
+  }
+
+  @media (--l-up) {
+    width: calc(100% / 4);
+  }
+}
+
+.column-3-4 {
+  
+  @media (--s-up) {
+    width: calc((100% / 4) * 3);
   }
 }
