@@ -1,6 +1,6 @@
 :root {
   --header-height: 3rem;
-  --header-height-m-up: 4rem;
+  --header-height-s-up: 4rem;
 }
 
 .header {
@@ -14,10 +14,11 @@
 .header-inner {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   height: var(--header-height);
 
-  @media (--m-up) {
-    height: var(--header-height-m-up);
+  @media (--s-up) {
+    height: var(--header-height-s-up);
+    justify-content: space-between;
   }
 }

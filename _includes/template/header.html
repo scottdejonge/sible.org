@@ -1,18 +1,18 @@
-<header id="header" class="header background-dark color-white" role="banner">
+<header id="header" class="header background-white border-bottom" role="banner">
   <div class="container">
     <div class="header-inner">
 
-      <div class="flex-none visible-xs margin-right-xs">
+      <!-- <div class="flex-none visible-xs margin-right-xs">
         <button class="button button-dark button-square">Menu</button>
-      </div>
+      </div> -->
       
       <div class="flex-none">
         {% include template/logo.html %}
       </div>
 
-      <div class="flex-none flex align-items-center">
+      <div class="flex-none flex align-items-center hidden-xs">
         {% include nav/nav.html %}
-        <a class="button button-square button-white button-border margin-left-xs" href="{{ site.baseurl }}/register">Register</a>
+        <a class="button button-square button-dark margin-left-xs" href="{{ site.baseurl }}/register">Register</a>
       </div>
 
     </div>

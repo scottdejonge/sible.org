@@ -1,7 +1,7 @@
 body {
   padding-top: var(--header-height);
 
-  @media (--m-up) {
-    padding-top: var(--header-height-m-up);
+  @media (--s-up) {
+    padding-top: var(--header-height-s-up);
   }
 }
