@@ -397,7 +397,7 @@
   --input-font-size: var(--font-size-m);
   --input-line-height: var(--line-height-m);
   --input-background: var(--background);
-  --input-border-width: var(--border-width);
+  --input-border-width: 2px;
   --input-border-style: var(--border-style);
   --input-border-color: var(--border-color);
   --input-border-radius: var(--border-radius);
@@ -664,7 +664,7 @@
   --button-text-align: center;
   --button-text-transform: none;
   --button-background: var(--background);
-  --button-border-width: var(--border-width);
+  --button-border-width: var(--input-border-width);
   --button-border-style: var(--border-style);
   --button-border-color: var(--border-color);
   --button-border-radius: var(--border-radius);

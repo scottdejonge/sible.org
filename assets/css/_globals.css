@@ -34,8 +34,8 @@
    * Focus Outline
    */
 
-  --focus-outline: var(--border-width) solid var(--info);
-  --focus-outline-offset: var(--border-width);
+  --focus-outline: 2px solid var(--info);
+  --focus-outline-offset: 2px;
 
 
   /**
@@ -74,7 +74,7 @@
    * Border
    */
 
-  --border-width: 2px;
+  --border-width: 1px;
   --border-style: solid;
   --border-color: var(--light);
   --border-radius: 0.125em;
