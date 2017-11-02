@@ -6,13 +6,6 @@
   list-style: none;
 }
 
-.columns-align-center {
-
-  @media (--m-up) {
-    align-items: center;
-  }
-}
-
 .column {
   position: relative;
   flex: 0 0 auto;
@@ -28,21 +21,6 @@
   flex-direction: column;
   flex: 1 1 auto;
   margin: var(--gutter);
-}
-
-.column-inner-center {
-  justify-content: center;
-}
-
-.column-inner-justify {
-  justify-content: space-between;
-}
-
-.column-justify .column-inner {
-
-  @media (--m-up) {
-    justify-content: space-between;
-  }
 }
 
 /**
