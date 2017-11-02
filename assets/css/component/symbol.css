@@ -1,23 +1,27 @@
 .symbol {
-  padding: 0.5rem;
-  width: 4rem;
-  height: 4rem;
   border-radius: 50%;
 
   & svg {
     fill: none;
     stroke: currentColor;
+    stroke-width: 2px;
   }
 }
 
-.symbol-xs {
-  padding: 0.25rem;
-  width: 2rem;
-  height: 2rem;
-  border-radius: 50%;
+.symbol-s {
+  padding: 0.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+}
 
-  & svg {
-    fill: none;
-    stroke: currentColor;
-  }
+.symbol-m {
+  padding: 0.5rem;
+  width: 3rem;
+  height: 3rem;
+}
+
+.symbol-l {
+  padding: 0.5rem;
+  width: 4rem;
+  height: 4rem;
 }
