@@ -51,7 +51,7 @@
 
     &:hover,
     &:focus {
-      color: var(--primary);
+      color: var(--link-hover-color);
     }
   }
 }
