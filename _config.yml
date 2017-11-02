@@ -1,19 +1,19 @@
 # Site settings
 title: "Sible"
 page_title: "Sible"
-email: info@sible.org
-phone: 0400 000 000
-fax: 07 3333 3333
+email: mail@sible.org
+phone: ""
+fax: ""
 description: ""
 keywords:
   - Keyword
 
 # Server
-baseurl: "/"
+baseurl: ""
 destination: _site
 host: 0.0.0.0
 port: 5183
-url: https://sible.org/
+url: http://sible.org/
 encoding: UTF-8
 timezone: UTC
 permalink: pretty
@@ -36,4 +36,4 @@ kramdown:
   syntax_highlighter: rouge
 
 # Repo
-repo: https://github.com/scottdejonge/sible.org
+repo: https://github.com/sibleorg/sible.org

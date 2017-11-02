@@ -1,6 +1,6 @@
 .tile {
   height: 40rem;
-  background-image: url('/sible.org/assets/images/tile.svg');
+  background-image: url('/assets/images/tile.svg');
   background-repeat: repeat-y;
   background-position: bottom right;
   background-size: 40rem;
