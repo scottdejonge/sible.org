@@ -5,7 +5,21 @@
       {% include nav/social.html %}
     </div>
     <div class="footer-body padding-vertical-m">
-      {% include nav/footer.html %}
+      <div class="columns">
+        <div class="column column-1-3">
+          <div class="column-inner">
+            <blockquote class="max-width-20rem">
+              <p>“My disability exists not because I use a wheelchair, but because the broader environment isn't accessible.”</p>
+              <cite>Stella Young, 2012</cite>
+            </blockquote>
+          </div>
+        </div>
+        <div class="column column-2-3">
+          <div class="column-inner">
+            {% include nav/footer.html %}
+          </div>
+        </div>
+      </div>
     </div>
     <div class="footer-bottom">
       <p class="footer-copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.title }}.</p>
