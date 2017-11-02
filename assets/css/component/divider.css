@@ -2,6 +2,7 @@
   margin-top: var(--gutter);
   margin-bottom: var(--gutter);
   margin-left: 0;
+  height: 2px;
   width: 2rem;
   background: var(--border-color);
 }
