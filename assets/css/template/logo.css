@@ -5,6 +5,11 @@
   font-size: var(--font-size-l);
   text-decoration: none;
 
+  &:hover,
+  &:focus {
+    color: var(--dark);
+  }
+
   & svg {
     flex: none;
     display: block;
