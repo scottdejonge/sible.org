@@ -175,12 +175,12 @@
    */
 
   --blockquote-margin: 2em 0;
-  --blockquote-padding: 0 1em;
+  --blockquote-padding: 0;
   --blockquote-font-family: inherit;
   --blockquote-font-weight: var(--lead-font-weight);
   --blockquote-font-size: var(--lead-font-size);
   --blockquote-font-style: normal;
-  --blockquote-line-height: var(--lead-line-height);
+  --blockquote-line-height: var(--line-height-m);
   --blockquote-color: var(--lead-color);
 
 
