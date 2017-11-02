@@ -9,17 +9,17 @@
       url: /about
     - title: Blog
       url: /blog
-- title: Organisation
-  url: null
-  sublinks:
-    - title: Team
-      url: /about/team
-    - title: Partners
-      url: /about/partners
-    - title: Contact
-      url: /about/contact
-    - title: Brand
-      url: /about/brand
+# - title: Organisation
+#   url: null
+#   sublinks:
+#     - title: Principles
+#       url: /about/principles
+#     - title: Partners
+#       url: /about/partners
+#     - title: Contact
+#       url: /about/contact
+#     - title: Brand
+#       url: /about/brand
 - title: Using this site
   url: null
   sublinks:

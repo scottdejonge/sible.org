@@ -1,8 +1,8 @@
 ---
 layout: container
 order: 50
-title: Team
+title: Principles
 description: null
-permalink: /about/team/
+permalink: /about/principles/
 ---
 
