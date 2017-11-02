@@ -1,5 +1,5 @@
 .hero {
-  padding-bottom: 20rem;
+  padding-bottom: 25rem;
   justify-content: flex-start;
   background-image: url('/assets/images/hero.svg');
   background-repeat: repeat-x;
@@ -7,7 +7,7 @@
   background-size: 120rem 40rem;
 
   @media (--s-down) {
-    padding-bottom: 10rem;
+    padding-bottom: 15rem;
     background-size: 60rem 20rem;
   }
 }
