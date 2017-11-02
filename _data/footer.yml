@@ -29,8 +29,8 @@
       url: /disclaimer
     - title: Privacy Policy
       url: /privacy-policy
-    - title: Terms and Conditions
-      url: /terms-and-conditions
+    # - title: Terms and Conditions
+    #   url: /terms-and-conditions
 - title: Social
   url: null
   sublinks:
@@ -43,6 +43,6 @@
     - title: Instagram
       icon: instagram
       url: "/#"
-    - title: YouTube
-      icon: youtube
-      url: "/#"
+    # - title: YouTube
+    #   icon: youtube
+    #   url: "/#"
