@@ -35,6 +35,8 @@
     "deploy": "webpack -p && npm run build:css",
     "svg": "npm run svgo && npm run sprites",
     "svgo": "svgo -f assets/glyphs/src --enable=convertStyleToAttrs",
-    "sprites": "svg-sprite-generate -d assets/glyphs/src -o assets/glyphs/glyphs.svg"
+    "sprites": "svg-sprite-generate -d assets/glyphs/src -o assets/glyphs/glyphs.svg",
+    "format": "prettier --jsx-bracket-same-line --use-tabs --no-semi --print-width 120 --single-quote --trailing-comma es5 --write 'assets/js/**/*.js';",
+    "format:css": "prettier --single-quote --print-width 180 --write 'assets/**/*.css'"
   }
 }
