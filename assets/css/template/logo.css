@@ -3,11 +3,12 @@
   align-items: center;
   font-weight: var(--font-weight-bold);
   font-size: var(--font-size-l);
+  color: currentColor;
   text-decoration: none;
 
   &:hover,
   &:focus {
-    color: var(--dark);
+    color: var(--primary);
   }
 
   & svg {
