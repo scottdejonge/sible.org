@@ -10,7 +10,7 @@
   --body-color: var(--color);
   --body-line-height: var(--line-height);
   --body-letter-spacing: var(--letter-spacing);
-  --body-background: var(--background);
+  --body-background: var(--dark);
 
 
   /**
