@@ -79,6 +79,7 @@
  */
 
 @import './component/action';
+@import './component/buttons';
 @import './component/divider';
 @import './component/symbol';
 @import './component/tile';

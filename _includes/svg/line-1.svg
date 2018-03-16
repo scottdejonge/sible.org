@@ -1,6 +1,0 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="80" height="8" viewBox="0 0 80 8">
-  <title>line-1</title>
-  <circle cx="40" cy="4" r="4" fill="#28C8B4"/>
-  <path d="M4,8H28a4,4,0,0,0,0-8H4A4,4,0,0,0,4,8Z" fill="#6428f0"/>
-  <path d="M76,0H52a4,4,0,0,0,0,8H76a4,4,0,0,0,0-8Z" fill="#8c29c8"/>
-</svg>

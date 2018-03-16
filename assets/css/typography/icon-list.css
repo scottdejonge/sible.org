@@ -1,5 +1,5 @@
 .icon-list {
-  margin-left: 0;
+  margin: 0;
   padding: 0;
   list-style: none;
 
@@ -7,8 +7,7 @@
     flex: auto;
     display: flex;
     align-items: center;
-    margin: 0;
-    margin-bottom: 0.5rem;
+    margin: 1em 0;
     padding: 0;
     font-weight: var(--font-weight-medium);
 

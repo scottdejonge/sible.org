@@ -1,84 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg">
-<symbol id="arrow-down-left" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M12 4l-7.272 7.273M4 6.182V12h5.818"/></g>
+<symbol id="arrow-down" viewBox="0 0 24 24"><path d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"/>
 </symbol>
-<symbol id="arrow-down-right" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M4 4l7.272 7.273M6.182 12H12V6.182M4 4l7.272 7.273"/><path d="M6.182 12H12V6.182"/></g>
+<symbol id="arrow-left" viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
 </symbol>
-<symbol id="arrow-down" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M8 2v10M4 9l4 4 4-4"/></g>
+<symbol id="arrow-right" viewBox="0 0 24 24"><path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"/>
 </symbol>
-<symbol id="arrow-left" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M14 8H4M7 4L3 8l4 4"/></g>
+<symbol id="arrow-up" viewBox="0 0 24 24"><path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"/>
 </symbol>
-<symbol id="arrow-right" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M2 8h10M9 12l4-4-4-4"/></g>
+<symbol id="chevron-double-down" viewBox="0 0 24.00 24.00"><path d="M16.586 5.586L18 7l-6 6-6-6 1.414-1.414L12 10.172l4.586-4.586zm0 6L18 13l-6 6-6-6 1.414-1.414L12 16.172l4.586-4.586z"/>
 </symbol>
-<symbol id="arrow-up-left" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M12 12L4.728 4.727M9.818 4H4v5.818"/></g>
+<symbol id="chevron-double-left" viewBox="0 0 24.00 24.00"><path d="M18.414 7.414L17 6l-6 6 6 6 1.414-1.414L13.828 12l4.586-4.586zm-6 0L11 6l-6 6 6 6 1.414-1.414L7.828 12l4.586-4.586z"/>
 </symbol>
-<symbol id="arrow-up-right" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M4 12l7.272-7.273M12 9.818V4H6.182"/></g>
+<symbol id="chevron-double-right" viewBox="0 0 24.00 24.00"><path d="M5.586 7.414L7 6l6 6-6 6-1.414-1.414L10.172 12 5.586 7.414zm6 0L13 6l6 6-6 6-1.414-1.414L16.172 12l-4.586-4.586z"/>
 </symbol>
-<symbol id="arrow-up" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M8 14V4M12 7L8 3 4 7"/></g>
+<symbol id="chevron-double-up" viewBox="0 0 24.00 24.00"><path d="M7.414 18.414L6 17l6-6 6 6-1.414 1.414L12 13.828l-4.586 4.586zm0-6L6 11l6-6 6 6-1.414 1.414L12 7.828l-4.586 4.586z"/>
 </symbol>
-<symbol id="arrows-down-up" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M12 13V5M15 7l-3-3-3 3M4 3v8M1 9l3 3 3-3"/></g>
+<symbol id="chevron-down" viewBox="0 0 24 24"><path d="M7.41 7.84L12 12.42l4.59-4.58L18 9.25l-6 6-6-6z"/>
 </symbol>
-<symbol id="arrows-down" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M12 3v8M9 9l3 3 3-3M4 3v8M1 9l3 3 3-3"/></g>
+<symbol id="chevron-left" viewBox="0 0 24 24"><path d="M15.41 16.09l-4.58-4.59 4.58-4.59L14 5.5l-6 6 6 6z"/>
 </symbol>
-<symbol id="arrows-left-right" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M3 12h8M9 15l3-3-3-3M13 4H5M7 1L4 4l3 3"/></g>
+<symbol id="chevron-right" viewBox="0 0 24 24"><path d="M8.59 16.34l4.58-4.59-4.58-4.59L10 5.75l6 6-6 6z"/>
 </symbol>
-<symbol id="arrows-left" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M13 12H5M7 9l-3 3 3 3M13 4H5M7 1L4 4l3 3"/></g>
+<symbol id="chevron-up" viewBox="0 0 24 24"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"/>
 </symbol>
-<symbol id="arrows-right-left" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M3 4h8M9 7l3-3-3-3M13 12H5M7 9l-3 3 3 3"/></g>
+<symbol id="close" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
 </symbol>
-<symbol id="arrows-right" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M3 4h8M9 7l3-3-3-3M3 12h8M9 15l3-3-3-3"/></g>
+<symbol id="facebook-messenger" viewBox="0 0 24.00 24.00"><path d="M12 2C6.5 2 2 6.14 2 11.25c0 2.88 1.42 5.45 3.65 7.15l.06 3.6 3.45-1.88-.03-.01c.91.25 1.87.39 2.87.39 5.5 0 10-4.14 10-9.25S17.5 2 12 2m1.03 12.41l-2.49-2.63-5.04 2.63 5.38-5.63 2.58 2.47 4.85-2.47-5.28 5.63z"/>
 </symbol>
-<symbol id="arrows-up-down" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M12 4v8M9 10l3 3 3-3M4 13V5M7 7L4 4 1 7"/></g>
+<symbol id="facebook" viewBox="0 0 24.00 24.00"><path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm13 1.998h-2.5a3.5 3.5 0 0 0-3.5 3.5v2.5h-2v3h2v7h3v-7h3v-3h-3v-2a1 1 0 0 1 1-1h2v-3z"/>
 </symbol>
-<symbol id="arrows-up" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M4 13V5M7 7L4 4 1 7M12 13V5M15 7l-3-3-3 3"/></g>
+<symbol id="instagram" viewBox="0 0 24.00 24.00"><path d="M7.8 2h8.4A5.8 5.8 0 0 1 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8A5.8 5.8 0 0 1 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2zm-.2 2A3.6 3.6 0 0 0 4 7.6v8.8A3.6 3.6 0 0 0 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6A3.6 3.6 0 0 0 16.4 4H7.6zm9.65 1.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5zM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 2a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"/>
 </symbol>
-<symbol id="chevron-down" viewBox="0 0 16 16"><path fill="none" stroke="#000" stroke-width="2" d="M4 6l4 4 4-4"/>
+<symbol id="linkedin" viewBox="0 0 24.00 24.00"><path d="M21 21h-4v-6.75c0-1.059-1.188-1.944-2.246-1.944-1.06 0-1.754.885-1.754 1.944V21H9V9h4v2c.662-1.071 2.356-1.763 3.525-1.763C18.997 9.237 21 11.28 21 13.75V21zM7 21H3V9h4v12zM5 3a2 2 0 1 1 0 4 2 2 0 0 1 0-4z"/>
 </symbol>
-<symbol id="chevron-left" viewBox="0 0 16 16"><path fill="none" stroke="#000" stroke-width="2" d="M10 4L6 8l4 4"/>
+<symbol id="minus" viewBox="0 0 24 24"><path d="M19 13H5v-2h14v2z"/>
 </symbol>
-<symbol id="chevron-right" viewBox="0 0 16 16"><path fill="none" stroke="#000" stroke-width="2" d="M6 12l4-4-4-4"/>
+<symbol id="play" viewBox="0 0 16 16"><title>play</title><path d="M3 1.14v14l11-7z"/>
 </symbol>
-<symbol id="chevron-up" viewBox="0 0 16 16"><path fill="none" stroke="#000" stroke-width="2" d="M12 10L8 6l-4 4"/>
+<symbol id="plus" viewBox="0 0 24 24"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/>
 </symbol>
-<symbol id="chevrons-down" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M4 9l4 4 4-4M4 4l4 4 4-4"/></g>
+<symbol id="save" viewBox="0 0 24 24"><path d="M17 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V7l-4-4zm-5 16c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm3-10H5V5h10v4z"/>
 </symbol>
-<symbol id="chevrons-left" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M8 4L4 8l4 4M13 4L9 8l4 4"/></g>
+<symbol id="snapchat" viewBox="0 0 24.00 24.00"><path d="M12 20.447c-1.185.003-1.902-.504-2.534-.951-.454-.32-.881-.623-1.382-.706-1.153-.062-1.49.004-2.118.107-.105 0-.233-.023-.287-.206-.175-.753-.229-.958-.354-.977-1.345-.208-2.139-.513-2.297-.883-.034-.227.044-.324.153-.342 1.067-.176 2.016-.74 2.82-1.678.624-.726.93-1.42.963-1.496.16-.325.191-.597.097-.818-.173-.409-.747-.59-1.381-.797-.337-.133-.89-.414-.816-.802.053-.282.427-.479.95-.435.341.16.649.241.913.241.328 0 .487-.125.525-.16-.11-1.765-.206-3.291.185-4.167C8.605 3.757 11.084 3.554 12 3.552c.916.002 3.395.205 4.563 2.825.39.876.294 2.402.185 4.166.038.036.197.161.525.161.264 0 .572-.081.913-.241.523-.044.896.153.95.435.074.388-.48.669-.816.802-.634.206-1.208.388-1.381.797-.094.221-.063.493.097.818.033.077.339.77.962 1.496.805.938 1.754 1.502 2.822 1.678.108.018.186.115.152.342-.158.37-.952.675-2.297.883-.125.019-.179.224-.354.977-.054.183-.182.206-.287.206-.628-.103-.965-.169-2.118-.107-.501.083-.928.385-1.382.706-.632.447-1.349.954-2.534.95z"/>
 </symbol>
-<symbol id="chevrons-right" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M9 12l4-4-4-4M4 12l4-4-4-4"/></g>
+<symbol id="squiggle" viewBox="0 0 160 16"><title>squiggle</title><path d="M149.13 15c-4.07 0-7.87-2.29-10.69-6.44C136 5 132.79 3 129.4 3s-6.6 2-9 5.56c-2.83 4.15-6.62 6.44-10.69 6.44S101.8 12.71 99 8.56C96.53 5 93.31 3 89.9 3s-6.63 2-9.07 5.56C78 12.71 74.19 15 70.1 15s-7.9-2.29-10.73-6.44C56.93 5 53.72 3 50.33 3s-6.6 2-9 5.56C38.46 12.71 34.67 15 30.6 15s-7.87-2.29-10.69-6.44C17.46 5 14.25 3 10.87 3s-6.6 2-9 5.56L.17 7.44C3 3.29 6.8 1 10.87 1c4.07 0 7.86 2.29 10.69 6.44C24 11 27.21 13 30.6 13s6.6-2 9-5.56C42.47 3.29 46.26 1 50.33 1S58.2 3.29 61 7.44C63.47 11 66.69 13 70.1 13s6.63-2 9.07-5.56C82 3.29 85.81 1 89.9 1s7.9 2.29 10.73 6.44c2.44 3.59 5.65 5.56 9 5.56s6.6-2 9-5.56C121.54 3.29 125.33 1 129.4 1s7.87 2.29 10.69 6.44c2.44 3.59 5.65 5.56 9 5.56s6.6-2 9-5.56l1.65 1.13C157 12.71 153.2 15 149.13 15z"/>
 </symbol>
-<symbol id="chevrons-up" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M12 8L8 4 4 8M12 13L8 9l-4 4"/></g>
+<symbol id="twitter" viewBox="0 0 24.00 24.00"><path d="M22.46 6.012a8.58 8.58 0 0 1-2.466.676 4.305 4.305 0 0 0 1.887-2.374 8.591 8.591 0 0 1-2.725 1.041 4.292 4.292 0 0 0-7.313 3.914 12.184 12.184 0 0 1-8.846-4.483 4.271 4.271 0 0 0-.581 2.157 4.29 4.29 0 0 0 1.91 3.572 4.276 4.276 0 0 1-1.945-.537v.054c0 2.08 1.48 3.814 3.443 4.209a4.296 4.296 0 0 1-1.939.073 4.296 4.296 0 0 0 4.01 2.98 8.61 8.61 0 0 1-5.33 1.838c-.347 0-.688-.02-1.024-.06A12.147 12.147 0 0 0 8.12 21c7.893 0 12.21-6.54 12.21-12.21 0-.187-.004-.372-.012-.556a8.719 8.719 0 0 0 2.141-2.222z"/>
 </symbol>
-<symbol id="entrance-down" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M14 4v10H2V4M8 1v8"/><path d="M5 7l3 3 3-3"/></g>
+<symbol id="website" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
 </symbol>
-<symbol id="entrance-left" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M12 14H2V2h10M15 8H7"/><path d="M9 5L6 8l3 3"/></g>
-</symbol>
-<symbol id="entrance-right" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M4 2h10v12H4M1 8h8"/><path d="M7 11l3-3-3-3"/></g>
-</symbol>
-<symbol id="entrance-up" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2"><path d="M2 12V2h12v10M8 15V7"/><path d="M11 9L8 6 5 9"/></g>
-</symbol>
-<symbol id="info-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16zM7 8v4h2V8H7zm0-4v2h2V4H7z"/>
-</symbol>
-<symbol id="info-hexagon" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M16 8l-4 6.928H4L0 8l4-6.928h8L16 8zM7 8v4h2V8H7zm0-4v2h2V4H7z"/>
-</symbol>
-<symbol id="info-triangle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1l8 14H0L8 1zM7 9v4h2V9H7zm0-3v2h2V6H7z"/>
-</symbol>
-<symbol id="info" viewBox="0 0 16 16"><g fill-rule="evenodd"><path d="M7 7h2v6H7zM7 3h2v2H7z"/></g>
-</symbol>
-<symbol id="ramp-down" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M5 15h10V5z"/><path stroke="#000" stroke-width="2" d="M8 2L2 8M2 4v4h4"/></g>
-</symbol>
-<symbol id="ramp-up" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M5 15h10V5z"/><path stroke="#000" stroke-width="2" d="M2 8l6-6M8 6V2H4"/></g>
-</symbol>
-<symbol id="stairs-down" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd"><path stroke="#000" stroke-width="2" d="M8 2L2 8M2 4v4h4"/><path fill="#000" d="M13 5v2h-2v2H9v2H7v2H5v2h10V5z"/></g>
-</symbol>
-<symbol id="stairs-up" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd"><path stroke="#000" stroke-width="2" d="M2 8l6-6M8 6V2H4"/><path fill="#000" d="M13 5v2h-2v2H9v2H7v2H5v2h10V5z"/></g>
-</symbol>
-<symbol id="toilet" viewBox="0 0 16 16"><g fill-rule="evenodd"><path d="M14 3a2 2 0 1 1-4.001-.001A2 2 0 0 1 14 3M10 11h4V6h-4zM11 15h2v-4h-2zM7 3a2 2 0 1 1-4.001-.001A2 2 0 0 1 7 3M8 11H2l1-5h4zM4 15h2v-4H4z"/></g>
-</symbol>
-<symbol id="warning-circle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16zM7 4v4h2V4H7zm0 6v2h2v-2H7z"/>
-</symbol>
-<symbol id="warning-hexagon" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M16.083 7.917l-4 6.928h-8l-4-6.928 4-6.928h8l4 6.928zM7 4v4h2V4H7zm0 6v2h2v-2H7z"/>
-</symbol>
-<symbol id="warning-triangle" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1l8 14H0L8 1zM7 6v4h2V6H7zm0 5v2h2v-2H7z"/>
-</symbol>
-<symbol id="warning" viewBox="0 0 16 16"><g fill-rule="evenodd"><path d="M7 3h2v6H7zM7 11h2v2H7z"/></g>
+<symbol id="youtube" viewBox="0 0 24.00 24.00"><path d="M10 16.498v-9l6 4.5m4-7.6c-.602-.197-4.3-.4-8.002-.4-3.699 0-7.398.187-8 .384-1.564.516-2 4.02-2 7.616s.436 7.1 2 7.616c.602.197 4.301.384 8 .384 3.702 0 7.4-.187 8.002-.384 1.562-.516 1.988-4.02 1.988-7.616s-.426-7.084-1.988-7.6z"/>
 </symbol></svg>

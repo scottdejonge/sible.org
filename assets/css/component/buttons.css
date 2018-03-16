@@ -1,0 +1,10 @@
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: -0.5rem;
+
+  & .button {
+    margin: 0.5rem;
+  }
+}
