@@ -11,20 +11,6 @@
 .footer-nav {
   margin: -var(--gutter);
 
-  & > ul {
-    display: flex;
-    flex-wrap: wrap;
-    
-    & > li {
-      padding: var(--gutter);
-      flex: 0 0 50%;
-      
-      @media (--s-up) {
-        flex: 1 1 0;
-      }
-    }
-  }
-
   & ul {
     margin: 0;
     padding: 0;
@@ -58,6 +44,22 @@
       
       & span {
         border-color: var(--primary);
+      }
+    }
+  }
+
+  & > ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    max-width: 40rem;
+    
+    & > li {
+      padding: var(--gutter);
+      flex: 0 0 50%;
+      
+      @media (--s-up) {
+        flex: 1 1 0;
       }
     }
   }

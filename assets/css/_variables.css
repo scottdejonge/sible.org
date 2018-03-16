@@ -117,7 +117,7 @@
 
   --lead-margin: 0.5em 0 1em 0;
   --lead-font-family: var(--font-family-monospace);
-  --lead-font-weight: var(--font-weight-regular);
+  --lead-font-weight: var(--font-weight-medium);
   --lead-font-size: var(--font-size-l);
   --lead-color: inherit;
   --lead-line-height: var(--line-height-s);
@@ -176,9 +176,9 @@
 
   --blockquote-margin: 2em 0;
   --blockquote-padding: 0;
-  --blockquote-font-family: inherit;
+  --blockquote-font-family: var(--lead-font-family);
   --blockquote-font-weight: var(--lead-font-weight);
-  --blockquote-font-size: var(--lead-font-size);
+  --blockquote-font-size: var(--font-size-m);
   --blockquote-font-style: normal;
   --blockquote-line-height: var(--line-height-m);
   --blockquote-color: var(--lead-color);
@@ -189,12 +189,12 @@
    */
 
   --cite-margin: 1em 0;
-  --cite-font-family: inherit;
-  --cite-font-weight: inherit;
+  --cite-font-family: var(--font-family);
+  --cite-font-weight: var(--font-weight-medium);
   --cite-font-size: var(--font-size-s);
   --cite-font-style: normal;
   --cite-color: inherit;
-  --cite-text-align: left;
+  --cite-text-align: inherit;
 
 
   /**
