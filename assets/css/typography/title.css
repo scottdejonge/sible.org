@@ -1,6 +1,5 @@
 .title {
   margin: 0;
-  line-height: var(--line-height-xs);
 
   & em {
     font-style: normal;
@@ -9,60 +8,65 @@
 
 .title-xs {
   font-size: 1.5rem;
+  line-height: var(--line-height-xs);
 
-  /* @media (--s-up) {
-    font-size: 1.875rem;
+  @media (--s-up) {
+    font-size: 1.75rem;
   }
 
   @media (--l-up) {
     font-size: 2rem;
-  } */
+  }
 }
 
 .title-s {
   font-size: 2rem;
+  line-height: var(--line-height-xs);
 
-  /* @media (--s-up) {
+  @media (--s-up) {
+    font-size: 2.25rem;
+  }
+
+  @media (--l-up) {
+    font-size: 2.5rem;
+  }
+}
+
+.title-m {
+  font-size: 2.5rem;
+  line-height: 1;
+
+  @media (--s-up) {
     font-size: 2.75rem;
   }
 
   @media (--l-up) {
     font-size: 3rem;
-  } */
-}
-
-.title-m {
-  font-size: 2.5rem;
-
-  /* @media (--s-up) {
-    font-size: 3.5rem;
   }
-
-  @media (--l-up) {
-    font-size: 4rem;
-  } */
 }
 
 .title-l {
   font-size: 3rem;
+  line-height: 1;
 
-  /* @media (--s-up) {
-    font-size: 4.5rem;
+  @media (--s-up) {
+    font-size: 3.25rem;
   }
 
   @media (--l-up) {
-    font-size: 5rem;
-  } */
+    font-size: 3.5rem;
+  }
 }
 
 .title-xl {
   font-size: 3.5rem;
+  line-height: 1;
 
-  /* @media (--s-up) {
-    font-size: 5.5rem;
+  @media (--s-up) {
+    font-size: 4rem;
   }
 
   @media (--l-up) {
-    font-size: 6rem;
-  } */
+    font-size: 4.5rem;
+  }
 }
