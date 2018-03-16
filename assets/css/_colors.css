@@ -18,13 +18,13 @@
    */
 
   /* Light */
-  --light: hsl(240, 10%, 80%);
+  --light: hsl(240, 10%, 90%);
   --light-hover: var(--light-400);
   --light-active: var(--light-600);
-  --light-50: color(var(--light-100) tint(30%) saturation(+2%));
-  --light-100: color(var(--light-200) tint(25%) saturation(+2%));
-  --light-200: color(var(--light-300) tint(20%) saturation(+2%));
-  --light-300: color(var(--light-400) tint(15%) saturation(+2%));
+  --light-50: color(var(--light-100) tint(50%) saturation(+2%));
+  --light-100: color(var(--light-200) tint(40%) saturation(+2%));
+  --light-200: color(var(--light-300) tint(30%) saturation(+2%));
+  --light-300: color(var(--light-400) tint(20%) saturation(+2%));
   --light-400: color(var(--light) tint(10%) saturation(+2%));
   --light-500: var(--light);
   --light-600: color(var(--light) shade(15%) saturation(+2%));

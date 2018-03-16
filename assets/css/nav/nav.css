@@ -12,17 +12,37 @@
     margin: 0;
     padding: 0;
     color: currentColor;
-    font-weight: var(--font-weight-semibold);
+    font-weight: var(--font-weight-medium);
   }
 
   & a {
-    display: inline-block;
-    padding: 0.5em 0.75em;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1em;
+    height: var(--header-height);
     color: currentColor;
     text-decoration: none;
+    
+    @media (--s-up) {
+      height: var(--header-height-s-up);
+    }
+
+    &::after {
+      display: block;
+      position: absolute;
+      left: 0;
+      bottom: -var(--border-width);
+      right: 0;
+      height: 0.25em;
+      content: '';
+    }
 
     &.active {
-      border-bottom: var(--border-width) var(--border-style) var(--primary);
+      &::after {
+        background: var(--primary);
+      }
     }
   }
 }
