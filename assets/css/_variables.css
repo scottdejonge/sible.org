@@ -39,7 +39,7 @@
 
   --headings-margin: 1.5em 0 0.5em 0;
   --headings-font-family: var(--font-family-sans-serif);
-  --headings-font-weight: var(--font-weight-bold);
+  --headings-font-weight: var(--font-weight-medium);
   --headings-color: inherit;
   --headings-line-height: var(--line-height-s);
   --headings-text-transform: none;
@@ -103,7 +103,7 @@
    */
   
   --small-caps-margin: 1em 0;
-  --small-caps-font-family: var(--headings-font-family);
+  --small-caps-font-family: var(--font-family-monospace);
   --small-caps-font-weight: var(--font-weight-bold);
   --small-caps-font-size: var(--font-size-s);
   --small-caps-line-height: var(--line-height-xs);
@@ -150,7 +150,7 @@
    */
 
   --strong-font-family: inherit;
-  --strong-font-weight: var(--font-weight-bold);
+  --strong-font-weight: var(--font-weight-semibold);
   --strong-color: inherit;
 
 
@@ -376,9 +376,9 @@
    * Label
    */
 
-  --label-margin: 0.5em 0;
-  --label-font-family: inherit;
-  --label-font-weight: inherit;
+  --label-margin: 0.75em 0;
+  --label-font-family: var(--font-family-monospace);
+  --label-font-weight: var(--font-weight-medium);
   --label-font-size: var(--font-size-s);
   --label-color: inherit;
   --label-line-height: var(--line-height-m);
@@ -655,10 +655,10 @@
   --button-padding-vertical: calc((var(--button-height) - var(--button-font-size) - (var(--button-border-width) * 2)) / 2);
   --button-padding-horizontal: 1.25em;
   --button-height: var(--height-m);
-  --button-font-family: var(--font-family-sans-serif);
+  --button-font-family: var(--font-family-monospace);
   --button-font-weight: var(--font-weight-semibold);
   --button-font-size: var(--font-size-m);
-  --button-color: var(--primary);
+  --button-color: var(--color);
   --button-line-height: 1;
   --button-letter-spacing: var(--letter-spacing);
   --button-text-align: center;
@@ -666,7 +666,7 @@
   --button-background: var(--background);
   --button-border-width: var(--input-border-width);
   --button-border-style: var(--border-style);
-  --button-border-color: var(--background);
+  --button-border-color: var(--border-color);
   --button-border-radius: var(--border-radius);
   --button-box-shadow: var(--box-shadow);
 
@@ -714,7 +714,7 @@
    * Button Shades
    */
 
-  --button-white-color: var(--black);
+  --button-white-color: var(--primary);
   --button-light-color: var(--dark);
   --button-grey-color: var(--white);
   --button-dark-color: var(--white);

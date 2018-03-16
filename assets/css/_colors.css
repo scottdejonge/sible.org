@@ -18,7 +18,7 @@
    */
 
   /* Light */
-  --light: hsl(240, 10%, 90%);
+  --light: hsl(240, 10%, 85%);
   --light-hover: var(--light-400);
   --light-active: var(--light-600);
   --light-50: color(var(--light-100) tint(50%) saturation(+2%));

@@ -27,10 +27,13 @@
 
 
 /**
- * Fonts
+ * Font
  */
 
-@import './_fonts';
+@import './font/roboto';
+@import './font/ibm-plex-mono';
+@import './font/ibm-plex-sans';
+@import './font/ibm-plex-serif';
 
 
 /**
