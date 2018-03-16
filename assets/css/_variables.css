@@ -397,7 +397,7 @@
   --input-font-size: var(--font-size-m);
   --input-line-height: var(--line-height-m);
   --input-background: var(--background);
-  --input-border-width: var(--border-width);
+  --input-border-width: 0.125rem;
   --input-border-style: var(--border-style);
   --input-border-color: var(--border-color);
   --input-border-radius: var(--border-radius);
@@ -529,7 +529,7 @@
   --control-focus-indicator-box-shadow: var(--input-focus-box-shadow);
 
   --control-checked-indicator-background: var(--primary);
-  --control-checked-indicator-border: var(--border-width) var(--border-style) var(--input-focus-border-color);
+  --control-checked-indicator-border: var(--input-border-width) var(--border-style) var(--input-focus-border-color);
   --control-checked-label-color: var(--control-label-color);
 
   --control-indicator-size: 1.5rem;
