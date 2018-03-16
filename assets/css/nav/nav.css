@@ -25,18 +25,14 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding: 0.5em;
     height: var(--header-height);
     color: currentColor;
     text-align: center;
     text-decoration: none;
-
-    & span {
-      display: inline-block;
-      padding: 0.5em;
-    }
     
     @media (--s-up) {
-      padding: 1em 2em;
+      padding: 1em 1.5em;
       height: var(--header-height-s-up);
     }
 
