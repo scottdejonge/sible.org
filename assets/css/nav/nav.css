@@ -1,5 +1,8 @@
 .nav {
 
+  @media (--xs) {
+     width: 100%;
+  }
   & ul {
     display: flex;
     margin: 0;
@@ -8,7 +11,7 @@
   }
 
   & li {
-    flex: none;
+    flex: auto;
     margin: 0;
     padding: 0;
     color: currentColor;
@@ -20,13 +23,20 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 1em 1.5em;
+    padding: 0.5em;
     height: var(--header-height);
     color: currentColor;
+    text-align: center;
     text-decoration: none;
     
     @media (--s-up) {
+      padding: 1em 1.5em;
       height: var(--header-height-s-up);
+    }
+
+    &:hover,
+    &:focus {
+      color: var(--primary);
     }
 
     &.active {

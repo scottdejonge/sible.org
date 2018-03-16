@@ -10,7 +10,7 @@
   --body-color: var(--color);
   --body-line-height: var(--line-height);
   --body-letter-spacing: var(--letter-spacing);
-  --body-background: var(--dark);
+  --body-background: var(--background);
 
 
   /**
@@ -104,8 +104,8 @@
   
   --small-caps-margin: 1em 0;
   --small-caps-font-family: var(--font-family-monospace);
-  --small-caps-font-weight: var(--font-weight-bold);
-  --small-caps-font-size: var(--font-size-s);
+  --small-caps-font-weight: var(--font-weight-semibold);
+  --small-caps-font-size: var(--font-size-xs);
   --small-caps-line-height: var(--line-height-xs);
   --small-caps-text-transform: uppercase;
   --small-caps-letter-spacing: var(--letter-spacing-m);
@@ -772,7 +772,7 @@
    * Media
    */
 
-  --media-background: var(--light-50);
+  --media-background: var(--dark);
   --media-border-radius: var(--border-radius);
 
 
