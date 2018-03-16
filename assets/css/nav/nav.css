@@ -14,8 +14,10 @@
     flex: auto;
     margin: 0;
     padding: 0;
-    color: currentColor;
+    font-family: var(--font-family-monospace);
     font-weight: var(--font-weight-medium);
+    font-size: var(--font-size-s);
+    color: currentColor;
   }
 
   & a {
