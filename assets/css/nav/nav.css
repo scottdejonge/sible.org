@@ -20,7 +20,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 1em;
+    padding: 1em 1.5em;
     height: var(--header-height);
     color: currentColor;
     text-decoration: none;
@@ -33,7 +33,7 @@
       display: block;
       position: absolute;
       left: 0;
-      bottom: -var(--border-width);
+      top: 0;
       right: 0;
       height: 0.25em;
       content: '';
@@ -41,7 +41,7 @@
 
     &.active {
       &::after {
-        background: var(--primary);
+        background: currentColor;
       }
     }
   }

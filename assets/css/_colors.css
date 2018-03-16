@@ -33,7 +33,7 @@
   --light-900: color(var(--light-800) shade(30%) saturation(+2%));
 
   /* Grey */
-  --grey: hsl(240, 10%, 20%);
+  --grey: hsl(240, 10%, 30%);
   --grey-hover: var(--grey-400);
   --grey-active: var(--grey-600);
   --grey-50: color(var(--grey-100) tint(30%) saturation(+2%));
@@ -48,7 +48,7 @@
   --grey-900: color(var(--grey-800) shade(20%) saturation(+2%));
 
   /* Dark */
-  --dark: hsl(240, 10%, 10%);
+  --dark: hsl(240, 10%, 15%);
   --dark-hover: var(--dark-400);
   --dark-active: var(--dark-600);
   --dark-50: color(var(--dark-100) tint(30%) saturation(+2%));

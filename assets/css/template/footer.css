@@ -36,6 +36,7 @@
     display: block;
     margin: 0;
     padding: 0;
+    font-weight: var(--font-weight-medium);
     color: currentColor;
     line-height: var(--line-height-s);
   }
@@ -44,10 +45,21 @@
     display: block;
     padding: 0.25em 0;
     color: currentColor;
+    text-decoration: none;
+
+    & span {
+      display: inline-block;
+      border-bottom: var(--border-width) var(--border-style) transparent;
+    }
 
     &:hover,
     &:focus {
-      color: var(--link-hover-color);
+      color: currentColor;
+      text-decoration: none;
+      
+      & span {
+        border-color: var(--primary);
+      }
     }
   }
 }
