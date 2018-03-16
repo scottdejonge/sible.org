@@ -15,7 +15,7 @@
     margin: 0;
     padding: 0;
     font-family: var(--font-family-monospace);
-    font-weight: var(--font-weight-medium);
+    font-weight: var(--font-weight-semibold);
     font-size: var(--font-size-s);
     color: currentColor;
   }
@@ -25,25 +25,35 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 0.5em;
     height: var(--header-height);
     color: currentColor;
     text-align: center;
     text-decoration: none;
+
+    & span {
+      display: inline-block;
+      padding: 0.5em;
+    }
     
     @media (--s-up) {
-      padding: 1em 1.5em;
+      padding: 1em 2em;
       height: var(--header-height-s-up);
     }
 
     &:hover,
     &:focus {
-      color: var(--primary);
+      color: var(--white);
+      background: var(--primary-hover);
+    }
+
+    &:active {
+      color: var(--white);
+      background: var(--primary-active);
     }
 
     &.active {
-      color: var(--white);
-      background: var(--primary);
+      color: var(--primary);
+      background: var(--white);
     }
   }
 }
