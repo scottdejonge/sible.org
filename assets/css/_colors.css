@@ -19,8 +19,8 @@
 
   /* Light */
   --light: hsl(240, 10%, 85%);
-  --light-hover: var(--light-400);
-  --light-active: var(--light-600);
+  --light-hover: var(--light-600);
+  --light-active: var(--light-700);
   --light-50: color(var(--light-100) tint(50%) saturation(+2%));
   --light-100: color(var(--light-200) tint(40%) saturation(+2%));
   --light-200: color(var(--light-300) tint(30%) saturation(+2%));
@@ -34,8 +34,8 @@
 
   /* Grey */
   --grey: hsl(240, 10%, 30%);
-  --grey-hover: var(--grey-400);
-  --grey-active: var(--grey-600);
+  --grey-hover: var(--grey-600);
+  --grey-active: var(--grey-700);
   --grey-50: color(var(--grey-100) tint(30%) saturation(+2%));
   --grey-100: color(var(--grey-200) tint(25%) saturation(+2%));
   --grey-200: color(var(--grey-300) tint(20%) saturation(+2%));
@@ -49,8 +49,8 @@
 
   /* Dark */
   --dark: hsl(240, 10%, 15%);
-  --dark-hover: var(--dark-400);
-  --dark-active: var(--dark-600);
+  --dark-hover: var(--dark-600);
+  --dark-active: var(--dark-700);
   --dark-50: color(var(--dark-100) tint(30%) saturation(+2%));
   --dark-100: color(var(--dark-200) tint(25%) saturation(+2%));
   --dark-200: color(var(--dark-300) tint(20%) saturation(+2%));
@@ -68,8 +68,8 @@
 
   /* Primary */
   --primary: hsl(220, 100%, 50%);
-  --primary-hover: var(--primary-400);
-  --primary-active: var(--primary-600);
+  --primary-hover: var(--primary-600);
+  --primary-active: var(--primary-700);
   --primary-50: color(var(--primary-100) tint(60%) saturation(+50%));
   --primary-100: color(var(--primary-200) tint(40%) saturation(+40%));
   --primary-200: color(var(--primary-300) tint(30%) saturation(+30%));
@@ -83,8 +83,8 @@
 
   /* Secondary */
   --secondary: hsl(270, 80%, 50%);
-  --secondary-hover: var(--secondary-400);
-  --secondary-active: var(--secondary-600);
+  --secondary-hover: var(--secondary-600);
+  --secondary-active: var(--secondary-700);
   --secondary-50: color(var(--secondary-100) tint(60%) saturation(+50%));
   --secondary-100: color(var(--secondary-200) tint(50%) saturation(+40%));
   --secondary-200: color(var(--secondary-300) tint(30%) saturation(+30%));
@@ -98,8 +98,8 @@
 
   /* Tertiary */
   --tertiary: hsl(180, 60%, 50%);
-  --tertiary-hover: var(--tertiary-400);
-  --tertiary-active: var(--tertiary-600);
+  --tertiary-hover: var(--tertiary-600);
+  --tertiary-active: var(--tertiary-700);
   --tertiary-50: color(var(--tertiary-100) tint(60%) saturation(+50%));
   --tertiary-100: color(var(--tertiary-200) tint(50%) saturation(+40%));
   --tertiary-200: color(var(--tertiary-300) tint(30%) saturation(+30%));
@@ -117,8 +117,8 @@
 
   /* Error */
   --error: hsl(360, 100%, 50%);
-  --error-hover: var(--error-400);
-  --error-active: var(--error-600);
+  --error-hover: var(--error-600);
+  --error-active: var(--error-700);
   --error-50: color(var(--error-100) tint(60%) saturation(+50%));
   --error-100: color(var(--error-200) tint(50%) saturation(+40%));
   --error-200: color(var(--error-300) tint(30%) saturation(+30%));
@@ -132,8 +132,8 @@
 
   /* Warning */
   --warning: hsl(50, 100%, 50%);
-  --warning-hover: var(--warning-400);
-  --warning-active: var(--warning-600);
+  --warning-hover: var(--warning-600);
+  --warning-active: var(--warning-700);
   --warning-50: color(var(--warning-100) tint(60%) saturation(+50%));
   --warning-100: color(var(--warning-200) tint(50%) saturation(+40%));
   --warning-200: color(var(--warning-300) tint(30%) saturation(+30%));
@@ -147,8 +147,8 @@
 
   /* Success */
   --success: hsl(125, 50%, 50%);
-  --success-hover: var(--success-400);
-  --success-active: var(--success-600);
+  --success-hover: var(--success-600);
+  --success-active: var(--success-700);
   --success-50: color(var(--success-100) tint(60%) saturation(+50%));
   --success-100: color(var(--success-200) tint(50%) saturation(+40%));
   --success-200: color(var(--success-300) tint(30%) saturation(+30%));
@@ -162,8 +162,8 @@
 
   /* Info */
   --info: hsl(220, 100%, 50%);
-  --info-hover: var(--info-400);
-  --info-active: var(--info-600);
+  --info-hover: var(--info-600);
+  --info-active: var(--info-700);
   --info-50: color(var(--info-100) tint(60%) saturation(+50%));
   --info-100: color(var(--info-200) tint(50%) saturation(+40%));
   --info-200: color(var(--info-300) tint(30%) saturation(+30%));
