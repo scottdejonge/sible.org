@@ -37,12 +37,20 @@
   - title: Facebook
     icon: facebook
     url: "https://www.facebook.com/Sible-144014133015034/"
+    target: _blank
+    rel: noopener noreferrer
   - title: Twitter
     icon: twitter
     url: "https://twitter.com/sibleorg"
+    target: _blank
+    rel: noopener noreferrer
   - title: Instagram
     icon: instagram
     url: "https://www.instagram.com/sibleorg/"
+    target: _blank
+    rel: noopener noreferrer
   - title: YouTube
     icon: youtube
     url: "https://www.youtube.com/channel/UCzHw2qhfRWFCj1tKngLjnRg"
+    target: _blank
+    rel: noopener noreferrer

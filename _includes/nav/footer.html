@@ -23,14 +23,14 @@
       <ul>
         {% for sublink in sublinks %}
         <li>
-          <a href="{{ site.baseurl }}{{ sublink.url }}"><span>{{ sublink.title }}</span></a>
+          <a href="{{ site.baseurl }}{{ sublink.url }}" target="{{ sublink.target }}" rel="{{ sublink.rel }}"><span>{{ sublink.title }}</span></a>
         </li>
         {% endfor %}
       </ul>
     </li>
     {% else %}
     <li>
-      <a {{ active }} href="{{ site.baseurl }}{{ item.url }}"><span>{{ item.title }}</span></a>
+      <a {{ active }} href="{{ site.baseurl }}{{ item.url }}" target="{{ item.target }}" rel="{{ item.rel }}"><span>{{ item.title }}</span></a>
     </li>
     {% endif %}
   {% endfor %}

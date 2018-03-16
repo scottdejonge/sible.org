@@ -3,7 +3,7 @@
     {% for link in site.data.social %}
     {% if link.url %}
     <li>
-      <a href="{{ link.url }}">
+      <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
         <svg width="24" height="24" class="fill-current-color" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
           <use xlink:href="{{ site.baseurl}}/assets/glyphs/glyphs.svg#{{ link.icon }}"></use>
         </svg>
