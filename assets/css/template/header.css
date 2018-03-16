@@ -14,11 +14,10 @@
 .header-inner {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   height: var(--header-height);
 
   @media (--s-up) {
     height: var(--header-height-s-up);
-    justify-content: space-between;
   }
 }
