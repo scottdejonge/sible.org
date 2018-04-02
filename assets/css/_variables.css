@@ -345,7 +345,7 @@
    * Field
    */
 
-  --field-margin: var(--space-xs) 0;
+  --field-margin: var(--space-s) 0;
   --field-float-label-padding: 0.25em;
 
 
