@@ -95,3 +95,12 @@
 @import './utility/order';
 @import './utility/width';
 @import './utility/max-width';
+@import './utility/shadow';
+
+/**
+ * Temp
+ */
+
+input:focus {
+  outline: none;
+}

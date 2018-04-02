@@ -39,6 +39,12 @@
 
 
   /**
+   * Shadow
+   */
+  
+  --shadow-color: color(var(--dark) a(5%));
+
+  /**
    * Gutter
    */
 

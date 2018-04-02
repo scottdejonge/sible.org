@@ -1,0 +1,19 @@
+.shadow-xs {
+  box-shadow: 0 0px 1px var(--shadow-color);
+}
+
+.shadow-s {
+  box-shadow: 0 1px 2px var(--shadow-color);
+}
+
+.shadow-m {
+  box-shadow: 0 1px 4px var(--shadow-color);
+}
+
+.shadow-l {
+  box-shadow: 0 1px 6px var(--shadow-color);
+}
+
+.shadow-xl {
+  box-shadow: 0 1px 8px var(--shadow-color);
+}

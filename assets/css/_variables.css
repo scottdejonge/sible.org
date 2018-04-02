@@ -345,7 +345,7 @@
    * Field
    */
 
-  --field-margin: var(--space-m) 0;
+  --field-margin: var(--space-xs) 0;
   --field-float-label-padding: 0.25em;
 
 
@@ -376,7 +376,7 @@
    * Label
    */
 
-  --label-margin: 0.75em 0;
+  --label-margin: 0.5rem 0;
   --label-font-family: var(--font-family-monospace);
   --label-font-weight: var(--font-weight-medium);
   --label-font-size: var(--font-size-s);
@@ -407,13 +407,13 @@
   --input-placeholder-opacity: 0.5;
 
   --input-hover-color: var(--input-color);
-  --input-hover-background: color(var(--input-background) shade(2.5%));
-  --input-hover-border-color: color(var(--input-border-color) shade(2.5%));
+  --input-hover-background: var(--light-50);
+  --input-hover-border-color: var(--light-600);
   --input-hover-box-shadow: var(--hover-box-shadow);
 
   --input-focus-color: var(--input-color);
-  --input-focus-background: color(var(--input-background) shade(5%));
-  --input-focus-border-color: var(--dark);
+  --input-focus-background: var(--primary-50);
+  --input-focus-border-color: var(--primary);
   --input-focus-box-shadow: var(--focus-box-shadow);
 
   --input-disabled-color: var(--input-color);
@@ -671,13 +671,13 @@
   --button-box-shadow: var(--box-shadow);
 
   --button-hover-color: var(--button-color);
-  --button-hover-background: color(var(--button-background) shade(2.5%));
-  --button-hover-border-color: var(--dark);
+  --button-hover-background: var(--input-hover-background);
+  --button-hover-border-color: var(--input-hover-border-color);
   --button-hover-box-shadow: var(--hover-box-shadow);
 
   --button-active-color: var(--button-color);
-  --button-active-background: color(var(--button-background) shade(5%));
-  --button-active-border-color: color(var(--button-border-color) shade(5%));
+  --button-active-background: var(--input-focus-background);
+  --button-active-border-color: var(--input-focus-border-color);
   --button-active-box-shadow: var(--active-box-shadow);
 
   --button-disabled-opacity: 0.65;
