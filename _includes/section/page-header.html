@@ -14,15 +14,18 @@
                 {% endif %}
               </h1>
               <hr class="divider background-primary">
+              {% if page.lead %}
+                <p class="lead max-width-30rem">{{ page.lead }}</p>
+              {% endif %}
               {% if page.description %}
-                <p class="lead max-width-30rem">{{ page.description }}</p>
+                <p class="max-width-30rem">{{ page.description }}</p>
               {% endif %}
             </div>
           </div>
         </div>
         <div class="column">
           <div class="column-inner">
-            <section class="padding-s background-white border border-radius shadow-m">
+            <section class="padding-s background-whiter border-radius shadow-m">
               <h2 class="margin-bottom-s">Register</h2>
               {% include form/register.html %}
             </section>
