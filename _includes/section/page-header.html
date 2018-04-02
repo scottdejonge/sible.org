@@ -1,5 +1,5 @@
 <section class="section">
-  <div class="section-inner padding-vertical-xl background-light-50 border-bottom">
+  <div class="section-inner padding-vertical-xl background-primary color-white">
     <div class="container">
       <div class="columns columns-1-2">
         <div class="column">
@@ -7,13 +7,13 @@
             <div class="max-width-s">
               <h1 class="title title-xl max-width-s">
                 {% if page.heading %}
-                  <span class="font-family-monospace font-size-xl color-primary display-block">{{ page.title }}</span> 
+                  <span class="font-family-monospace font-size-xl color-dark display-block">{{ page.title }}</span> 
                   {{ page.heading }}
                 {% else %}
                   {{ page.title }}
                 {% endif %}
               </h1>
-              <hr class="divider background-primary">
+              <hr class="divider background-dark">
               {% if page.lead %}
                 <p class="lead max-width-30rem">{{ page.lead }}</p>
               {% endif %}
@@ -25,7 +25,7 @@
         </div>
         <div class="column">
           <div class="column-inner">
-            <section class="padding-s background-whiter border-radius shadow-m">
+            <section class="padding-s background-white color-dark border-radius shadow-m">
               <h2 class="margin-bottom-s">Register</h2>
               {% include form/register.html %}
             </section>
