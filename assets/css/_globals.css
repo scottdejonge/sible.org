@@ -42,7 +42,7 @@
    * Shadow
    */
   
-  --shadow-color: color(var(--dark) a(5%));
+  --shadow-color: color(var(--dark) a(10%));
 
   /**
    * Gutter
@@ -80,7 +80,7 @@
    * Border
    */
 
-  --border-width: 1px;
+  --border-width: 0.125rem;
   --border-style: solid;
   --border-color: var(--light);
   --border-radius: 0.25em;
