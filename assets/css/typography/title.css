@@ -7,6 +7,15 @@
 }
 
 .title-xs {
+  font-size: 1.25rem;
+  line-height: var(--line-height-xs);
+
+  @media (--s-up) {
+    font-size: 1.5rem;
+  }
+}
+
+.title-s {
   font-size: 1.5rem;
   line-height: var(--line-height-xs);
 
@@ -19,9 +28,9 @@
   }
 }
 
-.title-s {
+.title-m {
   font-size: 2rem;
-  line-height: var(--line-height-xs);
+  line-height: 1;
 
   @media (--s-up) {
     font-size: 2.25rem;
@@ -32,7 +41,7 @@
   }
 }
 
-.title-m {
+.title-l {
   font-size: 2.5rem;
   line-height: 1;
 
@@ -45,28 +54,15 @@
   }
 }
 
-.title-l {
+.title-xl {
   font-size: 3rem;
   line-height: 1;
 
   @media (--s-up) {
-    font-size: 3.25rem;
-  }
-
-  @media (--l-up) {
     font-size: 3.5rem;
   }
-}
-
-.title-xl {
-  font-size: 3.5rem;
-  line-height: 1;
-
-  @media (--s-up) {
-    font-size: 4rem;
-  }
 
   @media (--l-up) {
-    font-size: 4.5rem;
+    font-size: 4rem;
   }
 }
