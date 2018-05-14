@@ -13,7 +13,7 @@ baseurl: ""
 destination: _site
 host: 0.0.0.0
 port: 5183
-url: http://sible.org/
+url: https://sible.org/
 encoding: UTF-8
 timezone: UTC
 permalink: pretty
